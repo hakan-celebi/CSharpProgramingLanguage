@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Other Home Page";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog Site</title>
+</head>
+<body>
+    <div style=" width: 100%; height: 400px; background-color: mediumvioletred;">
+        <h3 style="text-align: center; padding: 80px 0 0 0;">This is Header Text!</h3>
+    </div>
+    @section SectionName{
+    @(DateTime.Now)    
+    }
+    @ViewData["Value1"]
+    @Html.Partial("Error")
+</body>
+</html>
+

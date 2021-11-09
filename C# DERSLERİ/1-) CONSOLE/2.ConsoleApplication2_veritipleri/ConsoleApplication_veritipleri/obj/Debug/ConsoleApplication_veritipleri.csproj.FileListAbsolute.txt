@@ -1,0 +1,9 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\bin\Debug\ConsoleApplication_veritipleri.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\bin\Debug\ConsoleApplication_veritipleri.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\bin\Debug\ConsoleApplication_veritipleri.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\obj\Debug\ConsoleApplication_veritipleri.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\obj\Debug\ConsoleApplication_veritipleri.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\ConsoleApplication_veritipleri\ConsoleApplication_veritipleri\obj\Debug\ConsoleApplication_veritipleri.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\2.ConsoleApplication2_veritipleri\ConsoleApplication_veritipleri\bin\Debug\ConsoleApplication_veritipleri.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\2.ConsoleApplication2_veritipleri\ConsoleApplication_veritipleri\obj\Debug\ConsoleApplication_veritipleri.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\2.ConsoleApplication2_veritipleri\ConsoleApplication_veritipleri\obj\Debug\ConsoleApplication_veritipleri.pdb

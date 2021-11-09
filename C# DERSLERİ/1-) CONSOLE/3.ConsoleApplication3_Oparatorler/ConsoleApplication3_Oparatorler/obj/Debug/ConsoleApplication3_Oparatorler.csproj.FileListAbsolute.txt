@@ -1,0 +1,6 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\bin\Debug\ConsoleApplication3_Oparatorler.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\bin\Debug\ConsoleApplication3_Oparatorler.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\bin\Debug\ConsoleApplication3_Oparatorler.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\obj\Debug\ConsoleApplication3_Oparatorler.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\obj\Debug\ConsoleApplication3_Oparatorler.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\3.ConsoleApplication3_Oparatorler\ConsoleApplication3_Oparatorler\obj\Debug\ConsoleApplication3_Oparatorler.pdb

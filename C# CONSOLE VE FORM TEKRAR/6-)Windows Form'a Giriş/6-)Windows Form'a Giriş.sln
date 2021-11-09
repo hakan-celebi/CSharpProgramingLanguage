@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-)Windows Form'a Giriş", "6-)Windows Form'a Giriş\6-)Windows Form'a Giriş.csproj", "{F258CC1D-D00B-4D0D-BF14-9FB2FCF092BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F258CC1D-D00B-4D0D-BF14-9FB2FCF092BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F258CC1D-D00B-4D0D-BF14-9FB2FCF092BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F258CC1D-D00B-4D0D-BF14-9FB2FCF092BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F258CC1D-D00B-4D0D-BF14-9FB2FCF092BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09D3C71-DF04-4FF1-B61D-578C18EE0196}
+	EndGlobalSection
+EndGlobal

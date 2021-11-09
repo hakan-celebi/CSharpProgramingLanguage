@@ -1,0 +1,20 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\_12__Pizza_Otomasyonu.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\_12__Pizza_Otomasyonu.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\bin\Debug\12-)Pizza Otomasyonu.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\_12__Pizza_Otomasyonu.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\_12__Pizza_Otomasyonu.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\3-) OOP\12-)Pizza Otomasyonu\12-)Pizza Otomasyonu\obj\Debug\12-)Pizza Otomasyonu.pdb

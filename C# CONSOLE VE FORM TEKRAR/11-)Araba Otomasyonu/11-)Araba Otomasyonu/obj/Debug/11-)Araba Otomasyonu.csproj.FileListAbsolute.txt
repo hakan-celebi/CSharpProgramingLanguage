@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\bin\Debug\11-)Araba Otomasyonu.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\bin\Debug\11-)Araba Otomasyonu.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\bin\Debug\11-)Araba Otomasyonu.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\11-)Araba Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\_11__Araba_Otomasyonu.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\_11__Araba_Otomasyonu.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\11-)Araba Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\11-)Araba Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\11-)Araba Otomasyonu.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\11-)Araba Otomasyonu\11-)Araba Otomasyonu\obj\Debug\11-)Araba Otomasyonu.pdb

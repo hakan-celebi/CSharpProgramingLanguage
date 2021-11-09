@@ -1,0 +1,9 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\bin\Debug\WindowsFormsApplication33_r.controlsapp.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\bin\Debug\WindowsFormsApplication33_r.controlsapp.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\bin\Debug\WindowsFormsApplication33_r.controlsapp.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\33.WindowsFormsApplication33_runtimecontrolsapp\WindowsFormsApplication33_r.controlsapp\obj\Debug\WindowsFormsApplication33_r.controlsapp.pdb

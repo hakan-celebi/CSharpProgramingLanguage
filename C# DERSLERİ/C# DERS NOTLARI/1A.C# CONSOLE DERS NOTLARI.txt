@@ -1,0 +1,210 @@
+							C# DERS NOTLARI
+1-)Console Dersleri:
+--Genel;
+-Console.ReadLine(); Kullanýcýnýn girdiði veriyi almaya yarar.
+-Console.Write("METÝN"); Bir yazý veya bir veri yazdýrmaya yarar.
+-Console.WriteLine("METÝN") Bir yazý veya bir veri yazýldýktan sonra alt satýra geçer.
+-Console.Beep(200); Beep sesi çýkartmaya yarar.
+--Veri Tipleri;
+* 1-Tamsayý Tipleri:Ýçerisinde Tamsayý barýndýran tiplerdir
+         * 1.1-byte:0-255 arasýnda deðer tutar.
+         * -En küçük Tamsayý tipidir.
+         * -Ram'de 1 byte yer kaplar.
+         * 1.2-sbyte:-128 ile 127 arasýnda deðer tutar.
+         * -En küçük Tamsayý tipidir.
+         * -Ram'de 1 byte yer kaplar.
+         * 1.3-short:-32768 ile +32767 arasýnda deðer tutar.
+         * -Ram'de 2 byte yer kaplar.
+         * 1.4-ushort:0 ile 65535 arasýnda deðer tutar.
+         * -Ram'de 2 byte yer kaplar.
+         * 1.5-int:Varsayýlan Tamsayý tipidir.
+         * -1,14 milyar ile +1,14 milyar arasýnda deðer tutar.
+         * -Ram'de 4 byte yer kaplar.
+         * 1.6-uint:0 ile 2,28 milyar deðer tutar.
+         * -Ram'de 4 byte yer kaplar.
+         * 1.7-long:Tamsayý tiplerinin en büyüðüdür.
+         * -çok ile +çok arasýnda deðer tutar.
+         * -Ram'de 8 byte yer kaplar.
+         * 1.8-ulong:0 ile +çok arasýnda deðer tutar.
+         * -Ram'de 8 byte yer kaplar.
+         * 
+         * 2-Ondalýk Veri Tipleri:
+         * 2.1-float:Uzunluk ölçü birimlerinde kullanýlýr
+         * -En küçük ondalýk tipidir.
+         * 2.2-double:Varsayýlan ondalýk tipidir.
+         * -Matematiksel iþlemlerde kullanýlýr.
+         * 2.3-decimal:Ondalýk sayýlarýn en büyüðüdür
+         * -Parasal iþlemlerde kullanýlýr.
+         * -Ram'de 16 byte yer kaplar.
+         * 
+         * 3-Mantýksal Veri Tipleri:
+         * 3.1-bool:Ýçerisinde sadece 0 veya 1 deðerlerini barýndýrýr.
+         * -Ram-de 1 bit yer kaplar.
+         * 
+         * 4-Metinsel Veri Tipleri:
+         * 4.1-char:Ýçerisinde sadece bir karakter barýndýrýr.
+         * -Örnek;'A','7','?'.
+         * 4.2-string:En çok kullanýlan Metinsel Veri Tipidir
+         * -Örnek;"Merhaba Dünya".
+ 
+         * 5-Object(Nesne):Özel bir tiptir.
+         *-Bütün tipleri içerisinde barýndýrabilir.
+--Oparatörler;
+* 1-Matematiksel Oparatörler:
+         * Toplama(+),Çýkarma(-),Çarpma(*),Bölme(/)
+         * ++:Deðiþkenin deðerini 1 arttýrýr.
+         * --:Deðiþkenin deðerini 1 eksiltir.
+         * %:Deðiþkenin modunu alýr.
+         * -=,+=,*=,/=
+         * Not:++ veya -- Opratörleri deðiþkenin önünde (solunda) ise deðiþkeni önce iþleme sokar daha sonra kullanýrýz.
+         * Not:++ veya -- Oparatörleri deðiþkenin arkasýnda(saðýnda)ise önce deðiþkeni kullanýr daha sonra iþleme sokar.
+         * -a = a +-/* 10; gibi iþlemleri a +-/*= 10; kullanarak gerçekleþtirebiliriz. 
+         * 
+         * 2-Ýliþkisel Oparatörler:
+         * == --> Eþitmi sorusunu sorar.
+         * < --> Küçükmü sorusunu sorar.
+         * > --> Büyükmü sorusunu sorar.
+         * <= --> Küçük eþitmi sorusunu sorar.
+         * >= --> Büyük eþitmi sorusunu sorar.
+         * !:Deðil anlamýna gelir.Örnek; != --> Eþit deðilmi sorusunu sorar.
+         * 
+         * 3-Mantýksal Oparatörler:
+         * & --> 'Ve' Anlamýna gelir.
+         * | --> 'Veya' Anlamýna gelir.
+         * ! --> 'Deðil' Anlamýna gelir.
+--Tip Dönüþümleri;
+* 1-Cast:
+         * 1.1-Implictly Cast:Kendi kendine dönüþüm iþlemi yapar.
+         * -Ayrýca dönüþüm iþlemi yapmaya gerek yoktur.
+         * -Not:Kesinlikle bir tip diðer tipin içerisinde barýnabiliyorsa gerçekleþir.
+         * -Örnek; short a = 350; int b = a;
+         * 1.2-Explicitly Cast:Implictly Cast ile benzer dönüþüm iþlemi yapar.
+         * -Dönüþüm iþlemini ayrýca yapmak gerekir.
+         * -Örnek; int a = 214; byte b = (byte)sayi;
+         * 
+         * 2-Convert Ve Parse:Cast iþleminin yetersiz olduðu durumlarda kullanýlýr.
+         * -Metinsel bir ifadeyi Cast yöntemi ile bir tipe dönüþtüremeyiz.
+         * 2.1-Parse:Sadece string bir deðeri baþka bir tipe dönüþtürmeyi saðlar.
+         * -Her tipin içerisinde parse metodu bulunur.
+         * -Convert'e göre daha performanslýdýr fakat daha yeteneksizdir.
+         * 2.2-Convert:Herhangi bir tipi herhangi bir tipe dönüþtürür.
+         * -Parse'a göre daha yetenekli fakat daha az performans saðlar.
+         * -Örnek; decimal sayi3 = 10.85m; Veya decimal sayi3 = (decimal)10.85; piçiminde yazýlabilir. 
+--Karar Yapýlarý;
+         1- If - Else: if(koþul)  
+        {
+        
+        }
+        else if(koþul)
+        {
+        
+        } 
+        else if(koþul)
+        {
+        
+        }      
+        else
+        {
+        
+        }      
+        && --> Konulduðu zaman önceki(soldaki) deðer yanlýþ ise sonrakini hiç hesaba katmaz program durur.
+        Write metodunun içine {index} açýldýðý zaman içine index deðeri yazarýz.s
+        
+        2- SwitchCase:
+         * switch(koþul)
+         * {
+         * case 1: þunu yap; break;
+         * case 2: þunu yap; break,
+         * }
+         * -Ýf else yapýsýndan daha yeteneksizdir.  
+--Döngüler;
+	Belirli bir kod bloðunu belirli bir koþula göre tekrar tekrar çalýþtýrmayý saðlayan yapýlardýr.
+         * 4 Tane döngü çeþiti vardýr.
+
+         * 1-While Döngüsü:
+         * while(koþul) 
+         * {
+         * 
+         * } 
+
+         * 2-Do While Döngüsü:
+         * do
+         * {
+         * while (koþul);
+         * } 
+
+         * 3-For Döngüsü:
+         * Not: /n Yazdýðýmýz zaman html deki <br> komutunun iþini görür ve saðýna yazdýðýmýz yazýyý aþaðýya atar.
+         * Not: break komutu ile döngüyü sonlandýrabiliriz.
+
+         * 4-Foreach Döngüsü:2 önemli kuralý vardýr.
+         * -Sadece Ýleri Gider.
+         * -ReadOnly'dir.(Sadece okunabilir koleksiyon içindeki elemana deðer atamasý yapýlmaz)
+         * -Koleksiyon yapýsý foreach'in çalýþmasý sýrasýnda deðiþtirilemez.
+         * Yazýmý;
+         * foreach (elemantipi deðiþkenismi in koleksiyon) 
+         * {
+         * 
+         * }
+         * -Döngüler arasýnda en çok kullanýlan döngü yapýsýdýr.
+         * Not:Contains metodu dizinin içindeki deðerlere bakmamýzý saðlar örnek : dizi.Contains þeklinde kullanýlýr.
+--Diziler;
+	Ayný iþ ve ayný amaç için içersinde birden fazla deðer barýndýrmayý saðlayan yapýlardýr.
+        -Dizileri Tanýmlarken;Ne kadar yer kaplayacaklarý yani içerisinde kaçtane eleman barýndýracaklarý belli olsun diye tanýmlama sýrasýnda adet verilir.
+        -Her tibin dizisi olabilir.
+        -Herhangi bir tipi dizi haline getirmek için,tipin sonuna "[]" koyulur.
+        -Faydasý:Ayný isim altýnda bir tipe ait birden fazla deðer tutabilir.
+        -Dizilerde numaralandýrma index diye adlandýrýlýr.
+        -0'dan baþlar.Yani birinci sýradaki elemanýn index numarasý 0'dýr.
+
+
+2-)Windows Form Dersleri:
+--Genel;
+* SelectedIndex : Bir Combobox gibi birden çok item alabilen toolbox itemlerinin göstermek istenen deðerini seçiyor.(combobox.SelectedIndex = 0;)
+* Break : Switch Case de bir komutun sonlanmasýna yarýyor.
+* Trim() : Boþluklarý silmeye yarar.
+* e.KeyCode == Keys.Delete : Basýlan tuþu okumaya yarýyor.
+* is deðiþkeni item combobox mý diye sormasýný saðlar. Eðer combobox ise true deðeri gelir deðil ise false gelir.
+* Gelen item elemaný þu tip mi diye doðrulamak için is kullanýlýr.
+* Bir deðiþkeni deðerine göre sorgulamak için ==kullanýlýrkentipinegöresorgulamakiçiiskullanýlýr.
+* Item tanýmlanýrken Control kullanýlýr çünkü Control kendine has özellikleride vardýr fakat ayný özellikler vardýr label veya baþka birþey geldiðih zaman bütün tipleri alabiliyor.
+* Return : Return komuduna gelindikten sonra Altýndaki kodlarý çalýþtýrmaz.
+*Application.DoEvents() : Programa dur ve baþka bir iþlem varmý kontrol et demeye yarýyor.
+*Thread.Sleep(); : Uygulamayý verilen saniye kadar uyutmayý bekletmeyi yarar.
+*lblsaniye.Text=saniye<10?string.Format("0{0}",saniye):saniye.ToString(); bu iþleme turnery if denir.
+*Runtime anýnda üretilen bir kontrol'e event atama yöntemi += ile olur. += yazýlýr daha sonra iki kez tab tuþuna basýlýr.
+*Object sender içerisinde btn_Click metodunu çalýþtýran kontrol bulunur.
+*BringToFront(); : Týklanan butonu en üste getirir. SentToBack ise en arkaya gönderir.
+*Ýþlem parçacýklarýnýn birbirine karýþmasýný engellemek için kullanýlýr.
+            CheckForIllegalCrossThreadCalls = false;
+*BackGroundWorker in iptal etme özelliðini true yapar.
+            backgroundWorker2.WorkerSupportsCancellation = true;
+*BackGroundWorker i iptal eder ama yeterli kalmaz.
+            backgroundWorker2.CancelAsync();
+*BackGroundWorker while'ýn içine giremediði için cancel geldiyse DoWorkEventArgs özelliðini cancel yapar.
+                if (backgroundWorker1.CancellationPending)
+                {
+                    e.Cancel = true;
+                    return;
+                }
+*Eðer herhangi bir formu mdi form olarak açmak istiyorsak show metodu ile açmalýyýz ve showdialog kullanamayýz.
+
+--Dialog Windows;
+*Bütün dialog pencerelerinin 'Show' veya 'ShowDialog' isminde metodlarý bulunur. Bu metodlar dialog pencerelerini açmayý saðlar.
+*Tüm dialog pencereleri geriye 'DialogResault' tipinde deðer gönderir.
+*MessageBox.Show : Bir dialog penceresidir.
+*FontDialog.Font özelliði içerisinde fontdialog penceresinden seçilen font deðerleri tutulur.
+*InitialDiractor özelliði varsayýlan dosya konumunu açmayý saðlar.
+*SafeFileName : Sadece dosya adý ve uzantýsýný verir.
+*FolderBrowserDialog.FolderPath : Uzantý ismini almaya yarýyor.
+*ForeColor yazý rengini deðiþtirmeye yarar.
+--Hata Ayýklama Ve Hata Türleri;
+1-Derleme Hatalarý (Build Error)
+
+2-Çalýþma Zamaný Hatalarý (Runtime Error)
+*Çalýþma zamaný hatalarýný tespit edip yakalamak için try cacth yapýsý kullanýlýr.
+*Try içerisindeki komutlar hata versede vermesede finally bloðu her halukarda çalýþýr örnek baðlantý kapatýlmasý.
+
+3-Mantýksal Hatalar (Logical Error)
+
+ 

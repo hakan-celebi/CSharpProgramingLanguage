@@ -1,0 +1,19 @@
+﻿@model int?
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h1>@ViewBag.Time</h1>
+    @Html.DisplayFor(model => model).ToString()
+    @using (Html.BeginForm())
+    {
+        <input type="submit" name="SubmitButton" value="Submit" />
+    }
+</body>
+</html>

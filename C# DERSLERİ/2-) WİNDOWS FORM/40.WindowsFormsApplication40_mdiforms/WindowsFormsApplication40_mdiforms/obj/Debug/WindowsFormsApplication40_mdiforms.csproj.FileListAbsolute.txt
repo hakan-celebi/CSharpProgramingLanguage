@@ -1,0 +1,17 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.exe.config
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\bin\Debug\WindowsFormsApplication40_mdiforms.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.Form1.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.Properties.Resources.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.csproj.GenerateResource.Cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.csproj.CoreCompileInputs.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\40.WindowsFormsApplication40_mdiforms\WindowsFormsApplication40_mdiforms\obj\Debug\WindowsFormsApplication40_mdiforms.pdb

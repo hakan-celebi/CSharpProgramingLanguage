@@ -1,0 +1,14 @@
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.exe.config
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.exe
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.pdb
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.exe
+C:\Users\Hakan\Desktop\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\bin\Debug\3-)Tip Dönüşümleri.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\3-)Tip Dönüşümleri\3-)Tip Dönüşümleri\obj\Debug\3-)Tip Dönüşümleri.pdb

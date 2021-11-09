@@ -1,0 +1,22 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Kayitformu.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\bin\Debug\19-)Otobüs Otomasyon Sistemi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Kayitformu.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\_19__Otobüs_Otomasyon_Sistemi.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\19-)Otobüs Otomasyon Sistemi\19-)Otobüs Otomasyon Sistemi\obj\Debug\19-)Otobüs Otomasyon Sistemi.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\bin\Debug\18-)Runtime Uygulama.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\bin\Debug\18-)Runtime Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\bin\Debug\18-)Runtime Uygulama.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\18-)Runtime Uygulama.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\_18__Runtime_Uygulama.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\_18__Runtime_Uygulama.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\18-)Runtime Uygulama.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\18-)Runtime Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\18-)Runtime Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\18-)Runtime Uygulama\18-)Runtime Uygulama\obj\Debug\18-)Runtime Uygulama.pdb

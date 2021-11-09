@@ -1,0 +1,6 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\4.ConsoleApplication4_tipdönüşümleri\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

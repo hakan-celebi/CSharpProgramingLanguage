@@ -1,0 +1,14 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.pdb
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.exe.config
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.exe
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\bin\Debug\5-)Donguler.pdb
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.csprojAssemblyReference.cache
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.csproj.CoreCompileInputs.cache
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.exe
+G:\C# DERS TEKRAR\5-)Donguler\5-)Donguler\obj\Debug\5-)Donguler.pdb

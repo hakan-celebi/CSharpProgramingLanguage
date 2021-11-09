@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title + _NewLayout</title>
+    <link href="@Url.Content("~/Content/Style.css")" rel="stylesheet" />
+</head>
+<body>
+    <header id="Banner">
+        <h2 class="HeadTitle">Pambly Company</h2>
+        <div class="Menu">
+            <ul>
+                <li><a href="@Url.Action("Index", "Home")">Home Page</a></li>
+                <li><a href="@Url.Action("About", "Home")">About Page</a></li>
+                <li><a href="@Url.Action("Contact", "Home")">Contact Page</a></li>
+            </ul>
+        </div>
+    </header>
+    <div class="container">
+        @RenderBody();
+    </div>
+    <div class="test">
+        @RenderSection("SectionName", true);
+    </div>
+    <div class="test">
+        @RenderSection("Section2Name", false);
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.exe.config
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.exe
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.pdb
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csprojAssemblyReference.cache
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\_6__Windows_Form_a_Giriş.Form1.resources
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\_6__Windows_Form_a_Giriş.Properties.Resources.resources
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csproj.GenerateResource.cache
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csproj.CoreCompileInputs.cache
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.exe
+G:\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\bin\Debug\6-)Windows Form'a Giriş.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\_6__Windows_Form_a_Giriş.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\_6__Windows_Form_a_Giriş.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\6-)Windows Form'a Giriş\6-)Windows Form'a Giriş\obj\Debug\6-)Windows Form'a Giriş.pdb

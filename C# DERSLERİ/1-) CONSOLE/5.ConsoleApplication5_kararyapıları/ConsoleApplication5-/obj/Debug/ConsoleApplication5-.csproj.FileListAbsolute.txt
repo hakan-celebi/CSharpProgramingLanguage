@@ -1,0 +1,12 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\bin\Debug\ConsoleApplication5-.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\5.ConsoleApplication5_kararyapıları\ConsoleApplication5-\obj\Debug\ConsoleApplication5-.csprojResolveAssemblyReference.cache

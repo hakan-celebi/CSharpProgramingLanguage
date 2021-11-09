@@ -1,0 +1,74 @@
+﻿@model Ders_1_.Models.Student
+
+@{
+    ViewBag.Title = "Delete Student";
+}
+
+<h2>Delete Student</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SchoolNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SchoolNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdentityNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdentityNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SchoolTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SchoolTime)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <!-- Hazır olarak gelmemektedir. Gizli bir veri olarak post işleminde Controller'a veri göndermek için kullanılır. -->
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "ListStudents")
+        </div>
+    }
+</div>

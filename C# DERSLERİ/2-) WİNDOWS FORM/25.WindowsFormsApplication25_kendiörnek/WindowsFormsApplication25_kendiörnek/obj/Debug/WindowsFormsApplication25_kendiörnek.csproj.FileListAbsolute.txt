@@ -1,0 +1,28 @@
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csprojResolveAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csproj.GenerateResource.Cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\bin\Debug\WindowsFormsApplication25_kendiörnek.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\25.WindowsFormsApplication25_kendiörnek\WindowsFormsApplication25_kendiörnek\obj\Debug\WindowsFormsApplication25_kendiörnek.pdb

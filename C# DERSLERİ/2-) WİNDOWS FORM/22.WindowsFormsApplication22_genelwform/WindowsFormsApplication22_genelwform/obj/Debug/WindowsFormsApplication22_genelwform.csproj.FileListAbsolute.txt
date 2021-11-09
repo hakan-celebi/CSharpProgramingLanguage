@@ -1,0 +1,41 @@
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe.config
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.pdb
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csprojResolveAssemblyReference.cache
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form1.resources
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Properties.Resources.resources
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.GenerateResource.Cache
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.exe
+c:\users\duzeybilisim2\documents\visual studio 2017\Projects\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form2.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe.config
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csprojResolveAssemblyReference.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form1.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form2.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Properties.Resources.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.GenerateResource.Cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.CoreCompileInputs.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\bin\Debug\WindowsFormsApplication22_genelwform.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Form2.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\22.WindowsFormsApplication22_genelwform\WindowsFormsApplication22_genelwform\obj\Debug\WindowsFormsApplication22_genelwform.pdb

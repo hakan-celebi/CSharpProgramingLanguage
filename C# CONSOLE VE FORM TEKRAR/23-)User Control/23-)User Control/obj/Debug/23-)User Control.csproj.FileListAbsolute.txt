@@ -1,0 +1,11 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\bin\Debug\23-)User Control.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\bin\Debug\23-)User Control.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\bin\Debug\23-)User Control.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\23-)User Control.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\_23__User_Control.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\_23__User_Control.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\23-)User Control.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\23-)User Control.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\23-)User Control.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\_23__User_Control.InputControls.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\23-)User Control\23-)User Control\obj\Debug\23-)User Control.csproj.CopyComplete

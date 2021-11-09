@@ -1,0 +1,19 @@
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\23.WindowsFormsApp23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.exe.config
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\bin\Debug\WindowsFormsApp23_listview.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.csprojResolveAssemblyReference.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.Form1.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.Properties.Resources.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.csproj.GenerateResource.Cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.csproj.CoreCompileInputs.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\23.WindowsFormsApplication23_listview\WindowsFormsApp23_listview\obj\Debug\WindowsFormsApp23_listview.pdb

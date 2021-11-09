@@ -1,0 +1,26 @@
+﻿@inherits Ders_1_.Models.CustomPage<TModel>
+@model Ders_1_.Models.ErrorViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@functions{
+    public DateTime GetTime()
+    {
+        return DateTime.Now;
+    }
+}
+
+<h1>Index</h1>
+<form asp-controller="Home" asp-action="Index" method="post">
+    <label asp-for="RequestId">Id: </label>
+    <input asp-for="RequestId" />
+    <!label asp-validation-summary="n"></!label>    
+</form>
+
+
+
+@await Component.InvokeAsync("Notification")
+@Model.RequestId
+@JoinText("Abdullah")

@@ -1,0 +1,12 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\bin\Debug\ConsoleApplication8_dowhile.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\8.ConsoleApplication8_dowhile\ConsoleApplication8_dowhile\obj\Debug\ConsoleApplication8_dowhile.csprojResolveAssemblyReference.cache

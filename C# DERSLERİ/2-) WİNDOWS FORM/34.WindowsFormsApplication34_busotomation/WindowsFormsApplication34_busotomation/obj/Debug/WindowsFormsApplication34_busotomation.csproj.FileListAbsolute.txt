@@ -1,0 +1,32 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.KayitFormu.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.KayitFormu.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\3-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\bin\Debug\WindowsFormsApplication34_busotomation.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.KayitFormu.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\34.WindowsFormsApplication34_busotomation\WindowsFormsApplication34_busotomation\obj\Debug\WindowsFormsApplication34_busotomation.pdb

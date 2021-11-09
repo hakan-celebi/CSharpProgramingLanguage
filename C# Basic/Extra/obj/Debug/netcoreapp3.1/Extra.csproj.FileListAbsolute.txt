@@ -1,0 +1,15 @@
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.csproj.AssemblyReference.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.csproj.GenerateResource.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.AssemblyInfoInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.AssemblyInfo.cs
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.exe
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.deps.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.runtimeconfig.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.runtimeconfig.dev.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\bin\Debug\netcoreapp3.1\Extra.pdb
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.pdb
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.genruntimeconfig.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Extra\obj\Debug\netcoreapp3.1\Extra.Form1.resources

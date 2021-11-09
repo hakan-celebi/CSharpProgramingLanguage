@@ -1,0 +1,19 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\bin\Debug\WindowsFormsApplication31_mayintarlasi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\31.WindowsFormsApplication31_mayintarlasi\WindowsFormsApplication31_mayintarlasi\obj\Debug\WindowsFormsApplication31_mayintarlasi.csprojAssemblyReference.cache

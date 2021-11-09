@@ -1,0 +1,1117 @@
+									     C# DERS NOTLARI
+C# NEDÝR;
+      C#, yazýlým sektörü içerisinde en sýk kullanýlan iki yazýlým dili olan C ve C++ etkileþimi ile türetilmiþtir. Ayrýca C#, ortak platformlarda taþýnabilir bir (portable language)
+programlama  dili olan Java ile pek çok açýdan benzerlik taþýmaktadýr . En büyük özelliði ise .Net Framework platformu için hazýrlanmýþ tamamen nesne yönelimli bir
+yazýlým dilidir. Yani nesneler önceden sýnýflar halinde yazýlýdýr. Programcýya sadece o nesneyi sürüklemek ve sonrasýnda nesneyi amaca uygun çalýþtýracak kod satýrlarýný
+yazmak kalýr.
+      Microsoft tarafýndan geliþtirilen C#, C++ ve Visual Basic dillerinde yer alan tutarsýzlýklarý kaldýrmak için geliþtirilmiþ bir dil olmasýna raðmen kýsa süre içerisinde nesne
+yönelimli dillerin içinde en geliþmiþ programlama dillerinden biri olmayý baþarmýþtýr.
+      Ayrýca geliþmiþ derleyicisi (debugger) ile hata olasýlýðýný ortadan kaldýrmaktadýr. Yazýlan program çalýþtýrýldýktan sonra derleyici tarafýndan algýlanan Sýnýf (Class)
+ ve söz dizimi (syntax) hatalarý yazýlýmcýya ayrý bir ekranda ayrýntýsý ile gösterilir ve yazýlýmcý bu hata penceresinden hatalarý tespit ederek kolayca düzeltebilir.
+
+.NET Framework Nedir;
+      C# ve .Net Framework bazý kiþiler tarafýndan tek bir kavram olarak algýlanmaktadýr. Fakat bu iki kavram birbirlerinden tamamen farklý amaçlar için geliþtirilmiþtir.
+C#, nesne yönelimli bir programlama diliyken .Net Framework ise C# için geliþtirilmiþ bir çalýþtýrma ortamýdýr. Aslýnda C# dili, Microsoft tarafýndan .Net platformu için
+kod geliþtirmek amaçlý tasarlanmýþ ve C# içerisindeki tüm kütüphaneler .Net platformu içinde tanýmlanmýþ kütüphanelerdir.
+
+									     Konsol Üzerinden C#
+BÖLÜM 1;
+Konsol Ekraný Nedir : Konsol ekraný sadece içerisine yazdýðýmýz kodlarý çalýþtýrmak için kullanýlan ve görüntüsel bir desteði olmayan ekrandýr. Temel bilgileri öðrenip kullanmak için bu ekraný kullanýrýz. Örneðin;
+      Console.Write("Merhaba Dünya"); kodunu çalýþtýrdýðýmýz zaman siyah konsol ekraný üzerinde 'Merhaba Dünya' yazar geniþ bir görüntüsü olmaz.
+
+Not: Programlama Dillerinde numaralandýrma 0 dan baþlar 0 1 2 3 olarak devam ider bu numaralara index numarasý denir. Ýleriki Derslerde Ne demek 
+istediðimi anlýyacaksýnýz.
+
+Bölüm 1'de Kullanacaðýmýz Kodlar :
+1-)Console.Write("Gösterilmesini Ýstediðimiz Metin"); : Console.Write("Metin"); Kodu konsol üzerinde ayný satýra yazý veya sayý yazabilmemizi saðlýyor. Console.Write(); parantezlerin arasýna birþey yazýlmadan çalýþmaz ve hata
+verir.
+Birdaha ki Console.Write("Metin"); komutunu kullandýðýmýz zaman diðer Write komutunun saðýna devam eder ve alt satýra geçmez satýr üzerinden devam eder. Örneðin;
+Console.Write("Merhaba");
+Console.Write("Dünya");
+Yazdýðýmýz zaman konsol ekraný þu þekilde gösterecektir;
+MerhabaDünya
+ve ardýndan kapanacaktýr peki alt satýra inmek için ne kullanýlýr ?
+2-)Console.WriteLine(); : Console.WriteLine(); komutu Console.Write("Metin"); ile ayný iþlevi görür fakat farkettiðiniz üzere parantezler arasýna "Metin" yazmadým çünkü bu kod Console.WriteLine(); þeklindede kullanýlabilir.
+Kendinden sonra yazýlan bir ifadeyi otomatik olarak alta yazdýrýr satýrýnýn devamýna bir ifade yazýlmasýna izin vermez. Örneðin;
+Console.WriteLine("Merhaba");
+Console.WriteLine("Ben Ali");
+Konsol Ekranýnda;
+Merhaba
+Ben Ali
+þeklinde gösterir. Baþka bir Örnek;
+Console.Write("Merhaba");
+Console.WriteLine("Ben Ali");
+Konsol Ekranýnda;
+MerhabaBen Ali
+Þeklinde gösterir çünkü WriteLine Alt satýra bir ifade yazmayý deðil kendinden sonra gelen satýra baþka bir ifade yazýlmasýný engeller. Baþka bir Örnek;
+Console.WriteLine("Merhaba");
+Console.Write("Ben Ali");
+Console.WriteLine();
+Console.Write("Naber ?");
+Konsol Ekranýnda;
+Merhaba
+Ben AliNaber ?
+Þeklinde gösterir yanlýzca parantezlerin içerisine birþey yazmadan Console.WriteLine(); kodu sadece alt satýra geçirme olarak kullanýlýr.
+Line çizgi doðrusal anlamlarýna gelir.
+3-)Console.ReadLine(); : Bu kod parantezler arasýna herhangi bir parametre almaz. Console.Write("Metin"); gibi kodlarý kullanýrken anlýk olarak konsol gözüküp kayboluyor bunu önlemek ve konsol içine kullanýcýdan gelen deðeri
+alabilmek için kullanýlan koddur þimdilik sadece görevine Enter tuþuna basýlana kadar konsol penceresiniz kaybolmamasýný saðlamak olarak diyebiliriz.
+4-)Console.Beep(); : Konsol üzerinde bip sesi çýkarabilmemizi saðlar kullanýmý 2 þekilde olabilir. Ýlki Consol.Beep(); yazarak parantezler içerisine parametre girmeden kullanabiliriz bip sesinin hangi frekansda olduðunu ve kaç saniye
+boyunca çýkacaðý varsayýlan olarak belirlenir. Ýkinci olarak Console.Beep(int frekans int mili saniye); olarak yani Console.Beep(500, 1000); 500 frekansda 1000 mili saniye yani 1 saniye bip sesi saðlar.
+
+C#'da Metodlar Sýnýflar ve Eventler : C#'da siyah ile gördüðümüz kodlar bizim yazdýðýmýz kodlarý gösterir. Yeþil olan kodlar ise C#'ýn kendi sýnýfýndan olan komutlardýr. Örneðin Console.Write(); kodunu kullanýrken Console kodunun
+yeþil renkde olduðunu göreceksiniz bu C#'ýn kendi yazdýðý ve kütüphanesinde bulunan Console sýnýfýdýr.
+Using Bloðu : Using Bloðu C#'da kullanacaðýmýz kodlarýn bulunduðu kütüphaneleri ve sýnýflarý barýndýrýr örneðin ilk konsol ekranýný açtýðýmýz zaman üst'te beliren using blok'larý.
+using System;
+using System.Collections.Generic;
+Bu þekilde kullanýlan kod System kütüphanesini kullan diyor ve ardýndan biz System kütüphanesi içinde Collection kütüphanesine eriþebiliyoruz biz System kütüphanesini dahil ettik içindeki bütün kodlarý sýnýflarý kullanabiliriz diye 
+birþey yoktur sadece eriþebilmemizi anahtar saðlamýþtýr. Ardýndan using System.Collection.Generic; ile Systemin içindeki Collectionun içindeki Generic kodlarýna ulaþabilmemiz saðlandý. Kýsacasý sýnýflar C#'ýn bize sunduðu
+kendimizin de geliþtirebileceði kod dizinidir. Metodlar ise IDE üzerinde yani Visual Studio üzerinde kod yardýmcýsý sayesinde gördüðümüz pencerede yanýnda pembe kutucuk olan kodlardýr. Bu kodlar Þunu yap, bunu çiz, yaz gibi
+komutlardýr ardýndan parantez gelir ve ; ile sonlanýr. Console bir sýnýf Write bir metoddur. Console.Write(); þeklinde kullanýlýr. Eventler ise tam olarak þu anda öðrenmiyeceðimiz sadece bir olay yardýmcýsýdýr örneðin biz bir oyun
+oynarken ateþ etmek için sol tuþa basýyoruz ve program onu görüp sol tuþa basýldýðýný algýlýyor. Solunda þimþek iþareti olur.
+
+Not: Console.Clear(); kodu konsol ekranýný temizler.
+
+BÖLÜM 2;
+Veri Tipleri : 
+1-Tamsayý Tipleri:Ýçerisinde Tamsayý barýndýran tiplerdir
+         * 1.1-byte:0-255 arasýnda deðer tutar.
+         * -En küçük Tamsayý tipidir.
+         * -Ram'de 1 byte yer kaplar.
+
+         * 1.2-sbyte:-128 ile 127 arasýnda deðer tutar.
+         * -En küçük Tamsayý tipidir.
+         * -Ram'de 1 byte yer kaplar.
+
+         * 1.3-short:-32768 ile +32767 arasýnda deðer tutar.
+         * -Ram'de 2 byte yer kaplar.
+
+         * 1.4-ushort:0 ile 65535 arasýnda deðer tutar.
+         * -Ram'de 2 byte yer kaplar.
+
+         * 1.5-int:Varsayýlan Tamsayý tipidir.
+         * -1,14 milyar ile +1,14 milyar arasýnda deðer tutar.
+         * -Ram'de 4 byte yer kaplar.
+
+         * 1.6-uint:0 ile 2,28 milyar deðer tutar.
+         * -Ram'de 4 byte yer kaplar.
+
+         * 1.7-long:Tamsayý tiplerinin en büyüðüdür.
+         * -çok ile +çok arasýnda deðer tutar.
+         * -Ram'de 8 byte yer kaplar.
+
+         * 1.8-ulong:0 ile +çok arasýnda deðer tutar.
+         * -Ram'de 8 byte yer kaplar.
+
+   
+2-Ondalýk Veri Tipleri:
+         * 2.1-float:Uzunluk ölçü birimlerinde kullanýlýr
+         * -En küçük ondalýk tipidir.
+
+         * 2.2-double:Varsayýlan ondalýk tipidir.
+         * -Matematiksel iþlemlerde kullanýlýr.
+
+         * 2.3-decimal:Ondalýk sayýlarýn en büyüðüdür
+         * -Parasal iþlemlerde kullanýlýr.
+         * -Ram'de 16 byte yer kaplar. 
+
+
+3-Mantýksal Veri Tipleri:
+         * 3.1-bool:Ýçerisinde sadece 0 veya 1 deðerlerini barýndýrýr.
+         * -Ram-de 1 bit yer kaplar.
+
+
+4-Metinsel Veri Tipleri:
+         * 4.1-char:Ýçerisinde sadece bir karakter barýndýrýr.
+         * -Örnek;'A','7','?'.
+
+         * 4.2-string:En çok kullanýlan Metinsel Veri Tipidir.
+         * -Örnek;"Merhaba Dünya".
+
+         * 5-Object(Nesne):Özel bir tiptir.
+         * -Bütün tipleri içerisinde barýndýrabilir.
+
+Veri Tipleri Kullanýmý (Deðiþken) : 
+int a(deðiþken ismi) =  5;
+string b(deðiþken ismi) = "Naber";
+bool c = True;
+Þeklinde kullanýlýr deðiþken ismi tercihen Türkçe karakter içermez ve bir int deðiþkene string bi ifade sözel bir ifade girilemez.
+
+ÖDEV 1 : Bütün veri tiplerini kullanarak deðiþkenler oluþturun ve bu deðiþkenleri Console.Write(); komutu ile konsol ekranýna yazdýrýn.
+
+BÖLÜM 3;
+Operatörler : 
+1-) Matematiksel Operatörler:
+             * Toplama(+),Çýkarma(-),Çarpma(*),Bölme(/)
+             * ++ Bir arttýrmayý saðlar.
+             * -- Bir azaltmayý saðlar.
+             * % Mod almayý saðlar.
+             * +=
+             * -=
+             * *=
+             * /=
+             * Bu tür iþlemlerde deðiþkeni kendisi ile toplama çýkarma çarpma ve bölme iþlemleri yapýlýr.
+             * Örnek:int a = 5; a'nýn deðeri þu anda 5 ve siz a'yý 20 yapmak istiyorsunuz bu iþlem için 3 seçenek var;
+             * 1-a = 20;
+             * 2-a = a + 15;
+             * 3-a += 15;
+             * yapabilrsiniz 2 ve 3. seçenekler ayný iþlemi yapar 3. seçenek 2. seçeneðin kýsa halidir.
+             * Bu iþlemi sadece += için deðil hepsi için geçerlidir.
+
+             * Not:++ Veya -- operatörleri eðer sayýnýn önüne gelirse ilk baþta arttýrma iþlemini yapar.
+             * Örnek:int a = 1; int b = 0; b = ++a; olur sa b nin deðeri 2 eðer b = a++; olursa b nin deðeri 1 kalýr.
+
+             * Pekiþtirme:int a = 3; ve a = a++ - --a; iþleminin sonucu;
+
+             * a þu an 3 deðerinde ve a yý 3 olarak aldýk a(3) = 3(++) /bu durumda a 4 oldu ama iþlemde a nýn ilk deðerini kullanýyoruz
+             * a(3) = a(3)++ - --a(4) = 0; olur çünkü a nýn saða aktarým deðeri 4 olmuþtur 1 eksilttiðimiz zaman iþleme -- sol tarafta
+             * olduðu için 3 olarak alýnýr a = 3 - 3; olur ve sonuç 0 dýr.
+
+
+2-)Ýliþkisel Operatörler:
+             * == --> Bu iþlem denklik kontrolü için kullanýlýr.
+             * < --> Bu iþlem küçük mü kontrolü için kullanýlýr.
+             * > --> Bu iþlem büyük mü kontrolü için kullanýlýr.
+             * <= --> Bu iþlem küçük veya eþit mi kontrolü için kullanýlýr.
+             * >= --> Bu iþlem büyük veya eþit mi kontrolü için kullanýlýr.
+             * != --> Bu iþlem denk deðil mi kontrolü için kullanýlýr.
+             * Örneðin: int a = 5;
+             * if (a == 5 iþleminde a 5'e eþit ise if'in içine girer - a < 6 iþleminde a 6'dan küçük veya büyük ise if'in içine girer)
+             * {                                                        = >        gibi iþlemlerde ayný görevi görür.
+             * 
+             * }
+             * if (a != 4 iþleminde a 4 deðil ise if'in içine girer.)
+             * {
+             * 
+             * }
+             * Not: !< - !> gibi iþlemlerde küçük deðil , büyük deðil , küçük eþit deðil , büyük eþit deðil gibide kullanýlabilir.
+
+
+3-)Mantýksal Operatörler:
+             * & --> 'Ve' anlamýna gelir.
+             * | --> 'Veya' anlamýna gelir.
+             * ! --> 'Deðil' anlamýna gelir.
+
+Not : Burada geçen if karar yapýlarýna bakmayýn if eðer anlamýna gelir ve kontrol amaçlý kullanýlan bir komuttur ilerde öðreniceksiniz. Ödev sözlü olarak yan yana yapýlýp verilecektir. Þu ana kadar güzel bir þekilde öðrendiniz
+ve tip dönüþümlerine geçtik bundan itibaren sözel kýsýmlar býrakýlýp zevkli kýsýmlara geçilecek.
+
+Not * : Bu Yýldýzlý Notu Karar Yapýlarý Bölümünde Bahsedilecektir Mantýksal Operatörler ile ilgili bir nottur. 
+
+BÖLÜM 4;
+Tip Dönüþümleri : 
+Bir tipteki deðiþkeni baþka bir tipe dönüþtürmek için kullanýlýr. Örneðin int deðerini string deðerine dönüþyürmeye
+olanak saðlar. Tip Dönüþümleri 3'e ayrýlýr.
+
+1-)Cast:
+             * 1.1-)Ipmlicitly Cast:
+             *  Kendi kendine dönüþüm yapar ve bizim ayrýca dönüþüm iþlemi yapmamýza gerek yoktur. Bir tip diðer tipin içinde barýna
+             * biliyorsa gerçekleþir.
+             * Örnek: short a = 65; ve int b = a; olarak kullanabiliriz fakat int a = 1000000; short b = a; olarak asla yapamayýz çünkü
+             * short deðiþkeninin alabileceðinden fazla bir deðer içeriyor int deðeri.
+ 
+             * 1.2-)Explicitly Cast:
+             *  Benzer tipler arasýnda dönüþüm yapmayý saðlar ve bu sefer dönüþüm iþlemini biz yaparýz.
+             * Örnek: int a = 214; byte b = a; olarak yapamayýz çünkü int içindeki deðer byte'dan daha büyük olabilme ihtimali olduðu
+             * için otamatik yapamaz yapýlmasý gereken þudur byte b = (byte)a; þeklindedir.
+             * !Dikkat: Bu iþlem için de int deðerinin byte deðerinin içine sýðmasý gerekmektedir.
+
+
+2-)Convert ve Parse:
+             *  Cast tipi benzer deðiþken tipleri arasýnda olduðu için bazen yetersiz kalýr bu yizden Convert ve Parse yöntemini 
+             * kullanýrýz. Metinsel bir ifadeyi sayý tipine dönüþtürebiliriz.
+             * Örnek: string a = "5"; int b = a; þeklinde kullanamayýz veya int b = (int)a; þeklinde kullanamayýz.
+
+             * 2.1-)Parse:
+             *  Sadece string ifadeler için kullanýlýr string bir deðeri baþka bir tipe dönüþtürmeyi saðlar ve her tipin içinde bulunur
+             * Convert metoduna göre daha performanslýdýr fakat daha az iþlevseldir.
+             * Örnek: string a = "5"; int b; b'nin içine a daki 5 deðerini atabilmemiz için b = int.Parse(a); bu Parse iþlemi
+             * kullanýlýr
+
+             * 2.2-)Convert:
+             *  Herhangi bir deðiþken tipini herhangi bir deðiþken tipine dönüþtürmeyi saðlar.
+             * Örnek:float a = 5.3; int b = a yapabilmemiz için bu tipi int'a dönüþtürmemiz gerekir çünkü int ondalýklý sayý almaz bu 
+             * yüzden int a'yý aldýðý zaman yuvarlayarak 5 yapar. int b = Convert.ToInt32(a); yaparak a yý int b ye atabiliriz.
+
+Notlar;
+Decimal deðerinde cast yöndemi ile dönüþtürürken decimal a = (decimal)5.3; kullanmak yerine decimal a = 5.3m; þeklinde kullanýlabilir.
+Convert Tip Dönüþümün'de ToInt16 - ToInt32 - ToInt64 kodlarý hepsi int tipi deðildir ToInt16 short tipine ToInt32 int tipine ToInt64 ise long tipine dönüþtürür.
+ToSingle ise float deðerini convert etmek için kullanýlýr.
+
+Kullanýcýdan Gelen Deðeri Tutma : Program insanlarla etkileþime girip verileri tutabilmesi lazým bu noktada konsolun kapanmamasýný saðlayan Console.ReadLine(); iþin içine giriyor. Bu kod kullanýcýnýn enter'a basmadan önce
+konsol ekranýna girilen deðeri tutabilmemize olanak saðlýyor. Kullanýmý Þu Þekildedir.
+
+Console.Write("Ýsminizi Giriniz : ");
+string isim = Console.ReadLine();
+Console.WriteLine();
+Console.Write("Hoþ Geldin " + isim);
+
+Konsol Ekraný ; 
+Ýsminizi Giriniz : (Þeklinde duruyor ve biz buraya bir isim giriyor ve ardýndan enter'a basýyoruz) Ali
+(Ardýndan string isim deðeri kullanýcýnýn girdiði isimi alýyor ve ekrana yazdýrýyor)
+Hoþ Geldin Ali
+
+Console.Write("Hoþ Geldin " +isim); þeklinde kullandýðýmýz zaman onlarca deðiþken yazdýrabiliriz Console.Write("Hoþ Geldin " + isim + yas + okul) gibi yapmak yerine þu þekilde kullanabiliriz;
+Console.Write("Hoþ Geldin {0}{1}{2}", isim , yas , okul);
+
+ÖDEV 2 : Deðiþken oluþturmayý deðiþkenleri toplamayý çýkarmayý öðrendiðinize göre artýk ödev verebiliriz. Ödev 2.1 = Dönüþüm metodlarýný kullanarak dönüþümleri yapýp konsol ekranýna yazdýrmak. Ödev 2.2 = Konsol üzerinde 
+kullanýcýdan gelen sayýlarý tutarak toplama iþlemi yapabilen bir hesap makinesi yapmak.
+
+BÖLÜM 5;
+Karar Yapýlarý :
+Karar Yapýlarý Programlama Dillerinde böylemi yoksa böylemi deðilmi gibi iþlemleri kontrol eden yapýlardýr. Karar yapýlarý ikiye ayrýlýr if - else ve switch case olarak iki þekilde kullanýlýr. Bu karar yapýlarý geriye boolean deðeri
+gönderir yani true veya false deðeri true olduðu zaman yani koþul saðlandýðý zaman program karar yapýsýnýn parantezleri içine girer yani true gönderir false yani koþul doðrulanmadýðý zaman parantezlerin içine girmez ve karar
+yapýsýný es geçer.
+Yazýlýmýn olmazsa olmazý olan bu yapýlarda:
+
+1-)EÐER (ÝF) DEÐÝLSE EÐER (ELSE) DEÐÝLSE (ELSE) kodlarýný kullanýcaðýz. Örneðin ; 
+
+bir int a deðiþkeni oluþturalým ve biz bunun 0 dan büyükmü yoksa küçük mü olduðunu kontrol etmemiz gerekiyor bu durumda karar yapýlarý devreye giriyor.
+int a = -1;
+þeklinde 1 deðiþken oluþturduk ve bunu kontrol edeceðiz:
+
+/*Bu koþul saðlýyorsa parantezler içerisindeki kodlarý çalýþtýr.
+if (a <= 0)
+{
+	Eðer a 0'dan küçük veya eþit ise bu parantezler arasýndaki kodlar iþlem görecek. Bu Parantezlerden Sonra Gelen Else ve Else Ýf satýrlarý dikkate alýnmýyacak.
+}
+
+/*Yukardaki koþul saðlanmýyorsa ve bu koþul saðlanýyorsa parantezler içerisindeki kodlarý çalýþtýr.
+else if (a >= 0)
+{
+	Eðer a 0'dan büyük ise bu parantezler arasýndaki kodlar iþlem görecek. Bu Parantezlerden Sonra Gelen Else ve Else Ýf satýrlarý dikkate alýnmýyacak.
+	Fakat burda eþitlikte kontrol ediliyor üsteki yapýdada bu yüzden a 0'a eþit ise kodlar yukardan aþaðýya okunduðu için bu parantez içindeki kodlar dikkate alýnmayacak. 	
+}
+
+/*Yukardeki koþullarýn hiç biri saðlanmýyor ise parantezler arasýndaki kodlarý çalýþtýr
+else 
+{
+	Eðer yukardaki kontrol yapýlarýnýn 2 side saðlamýyorsa bu parantezler içi çalýþýr diðerleri dikkate alýnmaz örneðin a bir string deðeri ise.
+}
+
+GoTo Yapýsý : Þuraya git anlamý taþýr program bu kodu okuduðu zaman belirtilen yere gider ve belirtilen yerden itibaren tekrar kodlarý okumaya devam eder yani;
+int a = 5;
+int b = 6;
+burayadon:
+a++;
+b--;
+GoTo burayadon;
+burayadon diye tanýmladýðýmýz yere git dedik bu ismin illaki burayadon olmasýna gerek yok kendiniz farklý birþey yazabilirsiniz. Bu yeri tanýmlamak için donulecekyer yazýp sonuna iki nokta üst üste koyulur daha sonra gitmek
+istediðiniz zaman buraya tekrar geri gelir.
+Bu kodda int a ve b deðerleri oluþturduk ve birine 5 birine 6 deðerini attýk burayadon: tanýmladýk ve a ve b'yi bir arttýrdýk GoTo burayadon; ile tekrar burayadon:'e geldik ve tekrar a ve b'yi bir arttýrdýk ve bu sonsuza dek bu þekilde
+a ve b'yi arttýrýr. 
+
+Not : if-else yapýlarýnda if (a == 0 & b == 5) bu þekilde kod kullanýldýðý zaman program if yapýsýna gelir a 0'a eþitmi kontrol eder daha sonra b 5'e eþitmi kontrol eder fakat içlerinden birisi bu iþlemi saðlamasa bile diðeri kontrol
+edilir. Yani a 3'e eþit olsun b 5'e eþit olsun program a'ya bakar eþitmi deðil sonra b'ye bakar eþitmi eþit fakat a eþit olmadýðý için parantezler içine girilmez bunu önlemek için && kullanýlýr. if (a == 0 && b == 5) þeklinde kullanýldýðý
+zaman a 0'a eþitmi kontrol edilir eþit ise b'yi kontrol eder deðil ise b'ye hiç bakmaz ve if yapýsý atlanýr.
+
+ÖDEV 3: Kullanýcý Adý Þifre paneli oluþturun ve 3 kere yanlýþ girildiði zaman 3 defadan fazla deneme yaptýnýz yazýp kapansýn yani 2 deðiþken oluþturup Birinin içine kullanýcý adý birinin içine þifre atýn ve if-else karar yapýsýyla
+kullanýcý adý doðrumu yanlýþmý kontrol edin.
+
+ÖDEV 4: Kullanýcýdan iki tane sayý girmesini isteyin ve bu sayýlarý büyükten küçüðe sýralayýn.
+
+ÖDEV 5: Kullanýcýdan üç tane sayý girmesini isteyin ve bu sayýlarý büyükten küçüðe sýralayýn.
+
+Not *: ÖDEV 4 ve ÖDEV 5'de eþitlikleride göz önünde bulundurun.
+
+Not: Ýf-Else karar yapýlarýnda tek bir kod satýrýný çalýþtýracak isek if-else yapýsýný parantezsiz þekilde kullanabiliriz yani ;
+if(a == 0)
+	a++;
+a 0'a eþit ise ayý 1 arttýr. olarak kullanýldý parantezli olarak ;
+if (a == 0)
+{
+	a++;
+}
+
+2-)Switch Case : Ýf-Else yapýsý gibi kullanýlýr daha yeteneksizdir fakat daha performanslýdýr. Örneðin kullanýcý bir ay girecek ve o aydaki tatilleri görmek istiyecek bu iþlem için if-else yapýsý kullanýlýrýsa programa çok fazla kod
+yazýlmasý gerekir.
+
+string ay  = Console.ReadLine();
+switch (ay (buraya kontrol edilecek deðiþken geliyor))
+case "ocak" : Kullanýcý ocak ayýný girdiyse burdaki kodlar çalýþýr ve noktalý virgül ile sonlandýrdýðýmýz kodlarý bu sefer break; komutu ile sonlandýrýrýz break;
+case "þubat": Þubat girildiðinde buradaki kodlar çalýþýr. break;
+case diyerek devam eder. Basit bir yapýsý vardýr.
+
+ÖDEV 6: Beþ tane þehir seçin ve kullanýcý hangi þehri seçtiyse bu þehirde nelerin meþur olduðunu ve hangi uyruktaki insanlarýn yaþadýðýný switch case yapýsý ile kontrol ederek konsol ekranýna yazdýrýnýz.
+
+
+BÖLÜM 6:
+Döngüler: Döngüler 1 kod bloðunu bir koþula baðlý olarak birden fazla çalýþtýrmak için kullanýlan kodlardýr. Döngüler While,Do While,For ve Foreach olarak dörde ayrýlýr.
+
+1-)While Döngüsü:  Bu Döngü içersindeki koþul saðlanýyorsa sonsuz defa kod bloðunu çalýþtýrmaya yarar örneðin; -While iken anlamýna gelir.
+
+int a = 0;
+while (a == 0) - Bu þekilde koþul tanýmlandýðý zaman parantezler arasýndaki kodlar çalýþýr hale gelir. 
+{
+
+}
+
+int a = -10;
+while (a < 0) - Burda a 0'dan küçükmü kontrol ediyor küçük olduðu için true deðeri döndürüp kodlarýn içerisine giriyor ve a her döngüde bir artýyor en son a 0 olduðu zaman döngü çalýþmayý durduruyor. 
+{
+	a++;
+}
+
+ÖDEV 7: Operatörlerde öðrendiðimiz ++ ve benzeri kodlarý kullanarak 0 dan 2 þer 2 þer 100 e kadar tüm sayýlarý konsol ekranýna yazdýrýn.
+
+ÖDEV 8: 0'dan 100'e kadar olan çift sayýlarýn toplamý ve tek sayýlarýn toplamýný bulun.
+
+ÖDEV 9: Kullanýcýdan bir sayý girilmesini isteyin ve bu sayýnýn çift mi yoksa tek mi olduðunu yazdýrýn.
+
+Not: ÖDEV 7, ÖDEV 8 ve ÖDEV 9'da oparatörleri iyi bilmeniz gerekiyor. Birazda matematik :)
+
+2-)Do While Döngüsü: While döngüsü ile ayný iþi yapar fakat while döngüsünden farklý olarak koþul saðlanmýyorsa bile döngü 1 kez çalýþýr.
+
+int a = 100;
+do
+{
+	a--;
+}while(a != 0);
+
+Bu kod bir kez çalýþýr a 99'a düþer daha sonra a 0'a eþit deðil ise döngü çalýþýr ve devam eder.
+
+Random Referans Tipi Oparatör: Rastgele bir sayý üretmek için kullanýlýr ve 3 biçimde kullanýlýr kullanýmý þu þekildedir;
+Random sayi = new Random();
+sayi = sayi.Next(); 0'dan sonsuza kadar rastgele sayý üretir.
+veya
+sayi = sayi.Next(10); > 0'dan 10'a kadar rastgele sayý üretir.
+veya
+sayi = sayi.Next(10,15); > 10 ile 15 arasýnda rastgele sayý üretir.
+
+ÖDEV 10: Sayý Tahmin Oyunu programýn rastgele bir sayý tutmasýný isteyin ve kullanýcýdan bu tutulan sayýyý bilmesini isteyin 5 kere deneme hakký verin.
+
+3-)For Döngüsü: While döngüsü gibi bir koþul belirtilip bir iþlemi 1'den fazla defa çalýþtýrýr ve içerisinde kendine ait bir deðiþken tanýmlanýr ve sayýsal operatörler ile bu sayýyý iþleme sokar ve koþulu kontrol eder. Yani int a = 0; olarak
+a deðiþkenini oluþturduk ve bu a oparatörünü Console.Write(a); olarak konsola yazdýrdýk ve 0'dan 100'e kadar arttýrarak yazdýrmak istiyoruz bunun için while döngüsü de kullanýlabilir fakat for döngüsü daha derli toplu olduðu için
+for döngüsü kullanýlýr. Kullanýmý þu þekildedir;
+
+for (int i = 0; i, <= 100, i++)
+{
+	Console.Write(a); > bu kod ile a yý 0'dan 100'e kadar yazdýrýrýz.
+}
+
+ÖDEV 11: Kullanýcýdan bir sayý isteyin ve girilen sayýnýn faktöriyelini hesaplayýnýz.
+UYARI: 0'ýn Faktöriyelini Hesaplamayý Unutmayýn ve Program 0 Ýle 30 Arasýndaki Sayýlarýn Faktöriyellerini Hesaplýyabiliyor Kullanýcýnýn 0'dan Küçük Veya 30'dan Büyük Sayý Girmesini Engelleyin.
+
+'\n' Kodu: Console.WriteLine(); metodu gibi kendinde sonra gelen kod veya yazýlarý bir alt satýra gönderir.
+Console.Write("Merhaba");
+Console.Write("\n Benim Adým C#");
+
+Konsol Ekranýnda Þu Þekilde Gözükür;
+Merhaba
+Benim Adým C#
+
+Break Kodu: Switch Case yapýsýnda case kýsmýndaki kodlarýn kapanýþý olarak kullanýlýyor fakat break kýrmak anlamýna gelir yani sonlandýrmak bitirmek anlamýna gelir. For Döngüsü veya herhangi bir döngü yapý içerisinde bir 
+koþula baðlý olduðu zaman o yapýyý durdurmak istiyor isek break; kullanýlýr. Örneðin;
+
+for (int i = 0; i < 100; i++)
+{
+	if (i == 5)
+	{
+		break;
+	}
+}
+Burda i 5'e eþit olduðu zaman program if yapýsýna girip for döngüsünü durduracak.
+En dýþ yapýdaki kodlarý durdurur dikkat ettiðiniz üzere biz if yapýsýnýn içine break; durdur komutunu yazmamýza raðmen for döngüsünü durdurdu bu yüzden if gibi yapýlar içerisinde kullanýlmaz.
+
+Ara Konu Diziler: Diziler gibi birçok koleksiyon tipi vardýr. Diziler bu koleksiyon tiplerinin temelini kapsar. Günlük hayatta kullandýðýmýz oyunlar ve uygulamalar diziler olmasaydý þu anda kullanýlamazdý. Diziler ayný iþ ve amaç için içerisinde
+birden fazla deðer barýndýrmayý saðlayan yapýlardýr. Diziler tanýmlanýrken: ne kadar yer kaplayacaklarý yani kaç tane alan kaplýyacaðý belli olsun diye tanýmlama kýsmýnda adet belirtilir. Her tipin dizisi olabilir ve herhangi bir tipi dizi haline 
+getirmek için tipin sonuna köþeli parantez açýlýr ve kapatýlýr '[]'. Ayný isim altýnda bir tipe ait birden fazla deðer tutabilir. Unutmayýn ki index numaralarý burada önemlidir. Dizinin içindeki elemanlarý seçip eklemek çýkarmak veya düzenlemek
+için index numaralarý kullanýlýr. Örneðin 10 elemaný olan bir dizinin ilk elemanýný seçebilmek için 0 index numarasý kullanýlýr. Kullaným þekli þu þekildedir;
+
+string[] dizi1 = new string[''eleman sayýsý'']; --> Buradaki string yerine int olarak bir dizide oluþturulabilir. dizi1 kýsmý sizin kendi kararýnýza kalmýþ bir deðiþken ismidir.
+
+Diziye iki þekilde deðer atýlýr onlar þu þekildedir;
+
+dizi1[1] = "merhaba"; --> Burada dizi1'in 2.elemanýna "merhaba" yazýsý eklendi. Bu þekilde diziye deðer atma dizi tanýmlanýrken elemanlar belli olmadýðý içi kullanýlýr.
+
+int[] sayidizi ={1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; --> Burada sayidizi'sin elemanlarýný tanýmlama kýsmýnda yerleþtirdik. Bu dizi otomatik olarak 10 tane eleman girdiðimiz için boyutu 10 elemanlý bir dizi olmuþtur.
+
+-->Ýngilizcede resize yeniden boyutlandýrma anlamýna gelen kodu kullanarak dizimizi yeniden boyutlandýrabiliriz. Array'de dizi anlamýna gelmektedir.
+Bu diziyi yeniden oluþturmak için dizi1 = new string[11]; þeklindede yapabiliriz fakat dizimizin içine deðer attýysak bu þekilde boyut arttýrma yaptýðýmýz zaman dizi tamamen silinir yeni bir boþ dizi oluþturur bu sorunu geçebilmek için;
+
+array.Resize(ref dizi1, 11); --> Burda hangi diziyi boyutlandýracaðýmýzý ve yeni boyutunu girdik.
+Burda ref yani referans kullanmamýzýn nedeni diziyi referans alýp diziyi hiç bozmadan iþleme sokup diziye iþlemesinden dolayýdýr.
+
+Dizinin boyutunu öðrenmemizde gerekiyor örneðin for dizisinde döngünün dizi kadar dönmesi gerekmektedir bu yüzden dizinin boyutunu öðrenmemiz gerekecek.
+
+int diziboyut = dizi1.Lenght; --> Burda dizinin boyutu int deðer dönderir diziboyuta dizi1'imizin boyutunu atar örneðin biz 10 olarak tanýmlandýk.
+
+Ascii kod: Assembly program dilimizin temelini oluþturur. Biz sayý harf noktalama iþaretleri semboller kullanýrýz bilgisayarýmýzda. Ýþte bu sayý harf vb. þeylerin assembly kýsmýndaki numaralarýnda asgi kod denir örneðin A harfinin asgi kod
+karþýlýðý 65 dir. Büyük küçük harf olarak ascii kod deðiþir.
+
+ÖDEV 12: Kullanýcýya kaç tane isim gireceðini sorun ve buna göre dizi oluþturun daha sonra kullanýcýya isimleri girdirin sonra kullanýcýya hangi ismi aratacaðýný sorun ve bu dizinin içerisinde kaçtane kullanýcýnýn arattýðý isimden olduðunu
+yazdýrýn.
+
+4-)Foreach Döngüsü: Genellikle dizi iþlemlerinde kullanýlan döngüdür. Bu döngünün iki tane önemli kuralý vardýr.
+a-)Sadece ileri doðru gider.
+b-)Readonly'dir yani sadece okunabilirdir. Koleksiyon içerisindeki elemana atama yapýlamaz.
+Bu Döngünün Kullaným Þekli Þu Þekildedir;
+foreach(elemantipi degiskenismi in koleksiyon)
+{
+	
+}
+
+Örneðin;
+
+int[] dizi = {1, 2, 3, 4, 5};
+foreach(int item in dizi)
+{
+	Console.Write(item);
+}
+Burada int tipinde dizinin içinde item olan bir eleman var diyerek çalýþtýrýyoruz. Ýtem bizim yazdýðýmýz birþeydir baþka bir isim de verebilirsiniz. Ýtem geçici bir elemandýr döngünün içerisinde çalýþýr ve kaybolur. Sýra ile dizinin ilk
+elemanýndan baþlayarak son elemana kadar devam eder.
+
+Bir kod yazarken en çok dizi'leri kullanacaðýmýz için foreach'de en çok kullanacaðýmýz döngüdür.
+
+ÖDEV 13: Kullanýcýya kaç kiþilik takým oluþturmak istediðini sorun ve buna göre isimleri alýn. Örneðin 10 kiþi seçti kullanýcý 5'er kiþilik rastgele 2 takým oluþturun.
+
+Contains Metodu: Ýngilizcede içermek anlamýna gelir. Bir dizinin veya küme halinde bulunan koleksiyon yapýlarýnýn içerisindeki deðerleri kontrol etmek için kullanýlýr. Örneðin ÖDEV 12'de kullanýcýya kaç kiþi gireceðini belirtmesini 
+istedik ve bu deðere göre bir dizi oluþturduk ve bu dizinin içerisinde ayný isimden kaç tane olduðunu bize belirtmesini istedik bunun için for döngüsü kullandýk. Yada foreach ile de kontrol edebilirdik fakat bunun ile uðraþmak yerine
+bu contains metodunu kullanarak aratmak istediðimiz deðer varmý yokmu kontrol edebiliriz. Kullanýmý þu þekildedir;
+
+int[] sayilar = {1,2,3,4,5}
+if(sayilar.Contains(1))
+{
+	//Eðer sayilar dizisinin içerisinde 1 elemaný var ise if yapýsý true dönderir ve parantezler içerisine girer buradaki kodlarý çalýþtýrýr.
+
+}
+
+if(sayilar.Contains(7))
+{
+	//Burada sayilar dizisi 7 elemanýný içermediði için false dönderir ve parantezler içerisindeki kodlar çalýþýr.
+}
+
+Not String: String tipi özel bir veri tipidir. Yani string sadece bir kelime olurken ayný zamanda harflerin beraber yanyana oluþturduðu bir kümedir. Bu yüzden string char veri tipinden oluþan bir dizidir.
+
+ÖDEV 14: Kullanýcýdan bir kelime veya bir cümle isteyin kullanýcýnýn yazdýðý kelime veya cümlenin içerisinde kaç adet sesli harf var bunu bulun ve kullanýcýya gösterin.
+
+Not: Bir uygulama yaparken ve çoklu birþey içeren bir uygulama yazarken daha çok dizi kullanmaya gayret edin. Unutmayýn daðýtýk bir oyuncak yýðýnýný teker teker her defasýnda gitip gelmek yerine 1 defa kutuya koyup o þekilde götürürüz
+dizi kullanýn.
+
+ÖDEV 15: Sayýsal Loto Programý yapýn. Yani kullanýcýdan tam veya yarým bir bilet seçmesini isteyin seçimine göre 2 basamaklý 4 haneli bir loto belirleyin. Kullanýcýdan tahminlerini isteyin eðer 3 tanesini bilir ise ödülün çeyreðini
+tamamýný bilirse ödülün tamamýný verin. Bilemezse kaybettiniz yazdýrýn son olarak da loto daki sayýlar buydu diyerek konsol ekranýna yazdýrýn.
+
+ÖDEV 16: 10 Elemanlý bir dizi oluþturun ve bu diziye rastgele sayýlarla sadece bir tane olmak koþulu ile yerleþtirin.
+
+ÖDEV 17: Çarpým Tablosu Oluþturun Örneðin 1x1 = 1 gibi.
+
+Not: Asci kodlarý internet üzerinde bulabilirsiniz. Asci kod harf þeklinde Convert.ToChar(65); Þeklinde tanýmlayabiliriz 65 A harfine eþittir.
+
+ÖDEV 18: A'dan Z'ye Tüm harfleri yazdýracak bir uygulama yazýnýz. Ýki farklý yol vardýr iki yoluda kullanmanýz gerekir. Biraz mantýk lütfen :) 
+
+ÖDEV 19: 2'den 100'e kadar olan asal sayýlarý ekrana yazdýrýn.
+
+ÖDEV 20: Kullanýcýdan bir sayý isteyin bu sayý asalmý deðilmi kontrol edilsin.
+
+
+								    			WÝNDOWS FORM'DA C#
+BÖLÜM 1;
+
+Windows Form Nedir: Sonunda konsol ekranýnýn bunaltýcý yüzünden kurtulduk daha hareketli ve daha hoþ bir platform olan windows form'a geçtik. Bu form ekraný windows üzerindeki pencereler otomasyon sistemleri gibi birçok alanda 
+kullanýlýr.
+Mouse üzerine geldiði zaman ne yapýlsýn ne olsun gibi bir çok þimdiki zamana baðlý iþlemleri gerçekleþtirebiliriz. Detaylý bilgileri Ýbrahim ÖZ kanalýnda izliyeceksiniz ilk video windows formu izlediðinizi varsayýyorum.
+
+Form'un özellikler penceresi içerisindeki þimþek iþaretli sekme event sekmesidir. Týklandýðýnda tuþa basýldýðýnda aþþaðý indiðinde ve benzeri kod satýrlarý oluþturur. Diðer özellikleri Ýbrahim ÖZ'den ve kendiniz deneyerek bulabilirsiniz.
+
+Bir textbox'ýn içindeki deðeri alabilmek için txtbox.Text; Metodu kullanýlýr yani text metodu. string a = txtbox.Text; yapýldýðý zaman a txtbox.Text'in içindeki deðeri alýr.
+
+MessageBox: 3 adet kullaným þekli vardýr biz þu anda show metodunu kullanacaðýz. MessageBox bir nesnedir bu yüzden bunu programýmýzýn içinde çaðýrmak için show yani göster metodunu kullanýyoruz 21 adet kullaným þekli vardýr ve bu 
+kullaným þekillerine göre kullanýlýr. Örneðin int a = 01;  MessageBox.Show("ADANANIN PLAKASI {0}",a); þeklinde kullanamayýz bu yüzden;
+MessageBox.Show(string.Format("ADANA'NIN PLAKASI {0}",a)); þeklinde kullanýrýz.
+
+SelectedIndex: Bu metod içerisinde eleman  bulundurabilen araçlar için geçerlidir. Seçilmiþ index anlamýna gelir form'un load event'ine koyarak seçilmiþ elemaný seçili olarak gösterebiliriz.
+
+Numeric up down: Bu araç içerisinde sadece sayýsal deðer bulundurmaya yarar ve bu arac'ýn içerisindeki deðeri alabilmek için value metodu kullanýlýr.
+
+sonuc.ToString();: Bu metod sadece string için kullanýlabilir Convert.ToString ile ayný iþleve sahiptir.
+
+ÖDEV 21: Ýbrahim ÖZ hesap makinesi uygulamasýndan önce kendiniz hesap makinesi yapýn.
+
+BÖLÜM 2;
+Listeleyiciler:
+
+1-)Listbox: Bir koleksiyon yapýsýdýr içerisinde birden fazla nesne barýndýrabilir. Sýralamasý yine index numarasý ile yapýlýr.
+
+string.empty;: Textbox gibi araçlarýn içerisindeki texti boþ yapmak için kullanýlýr.
+
+items: Listbox'ýn itemlarýna eriþebilmemizi saðlar.
+
+SelectedÝtem: Seçilen eleman anlamýna gelir listbox'da uygulama çalýþýrken seçilen elemaný alýr.
+
+insert ve add: Ýnsert ve add ayný görevi yapar fakat add listenin en altýna item eklerken insert ile listede istediðimiz yere item ekleyebiliriz.
+
+.trim();: Bu metod bir metindeki saðda ve solda olan boþluklarý siler.
+
+Not: Buradaki bazý metodlar veya özellikler diðer listeleyicilerde de iþe yarar bu yüzden her yerde bahsedilmeyecektir.
+
+.Remove(); Listbox'ýn itemleri içerisindeki item'ý silebilmemizi saðlar.
+
+.ToUpper - ToDowner: Bir string tipindeki bütün char karakterlerini büyük harfe dönüþtürür.
+
+ÖDEV 22: Bir listbox ile liste oluþturup kiþileri ekleyin ve bir arama çubuðu ekleyin detaylarý ben vericem.
+
+2-)Listview: Listbox gibidir fakat listbox sadece bir tane eleman alýr isim alýr numara alýr veya herhangi birþey alýr fakat listview isim tel no gibi birden çok deðer alabilir. 
+Listview'a deðer atarken ilk baþta sanki bir dosyaya form dolduruyormuþ gibi bir form oluþturur bu da referenas tipi bir deðiþken olan ListviewItem lvi = new ListViewItem(); olarak tanýmlanýr yeni bir a4 kaðýdý aldýk þimdi ise kendi dosyamýza
+göre bir form oluþturmamýz lazým bunun için ilk deðeri atacaðýz ilk deðer lvi.text = deðer; olarak atýlýr ikinci deðerler ise alt eleman anlamýna gelen subitems ile atýlýr.
+
+useItemStyleForSubýtems: Listview'in item özellikleri default olarak deðiþtirilemez olarak seçilidir bunu deðiþtirebilmek için lvi.UseItemStyleForSubitems = false; yapar isek deðiþtirebiliriz var sayýlan olarak true olduðu için deðiþtiremiyoruz.
+
+Form'un içerisinde birden fazla combobox textbox gibi kontrol kullanabildiðimize göre form bize form'un kontrolleri için bize toplu bir kontrol verir bunu da foreach ile þu þekilde kullanabiliriz.
+
+is: Bu komut örneðin bir textbox.text; string tipinde deðer alýr bir hesap makinesi yaptýk ve sadece sayý girilmesi gerekiyor eðer harf girilirse uygulama hata verir bunu sorgulayabilmek için textbox.text is int textbox'ýn text'i int'mý diye sorar
+
+if(a is int)
+{
+	a int ise buradaki kodlar çalýþýr.
+}
+
+ÖDEV 23: Maðza Sipariþ Otomasyonu yapýn.
+
+3-)Dialog Windows: Bütün dialog pencerelerinin içerisinde show veya showdialog metodlarý bulunur ve bu dialog pencerelerini bu metodlar sayesinde açarýz.
+	Dialog Pencereleri geriye dialogresualt gönderir biz dialog penceresinde tamam veya iptal denmesini dialog deðiþkeni oluþturarak kontrol ediyoruz.
+
+4-)Timer: Program yazarken bazen sonsuza kadar devamlý iþlem yapýlmasý gereken sürekli çalýþmasý gereken bazý kodlar yazarýz bu kodlarý timer yardýmý ile sonsuza kadar yazabiliriz. Örneðin bir kronometre yapýldýðý zaman durdurulmadýðý
+taktirde bu saniye sonsuza kadar gider bu iþlemi timer ile yaparýz. Zamanlayýcý anlamýna gelir.
+
+Application.DoEvents();: Bu metod programa dur bak bakalým baþka bir iþlem varmý yoksa devam et anlamýna gelir while döngüsünde bu þekilde sayýlarý sonsuza kadar yazdýrabiliriz.
+
+Thread Sýnýfý: Bu sýnýfý görebilmek için ilk baþta gördüðümüz gibi kütüphaneye eklememiz lazým Thread düzgün bir þekilde yazdýðýmýz zaman bu thread sýnýfýný kütüphanemize ekleyebiliriz. Bu thread sýnýfýnda sleep metodu vardýr bu metod
+programý kaç saniye boyunca uyutmak istediðimizi mili saniye cinsinden ister yani saniyeleri while döngüsü ile sleep kullanarak yazarýz.
+
+long sayac = 0;
+            //int saniye = 0;
+            while (true)
+            {
+                //Ýlk Saniye Yazma Yolu Tam Olarak Saðlýklý Deðildir PC'den PC'ye Deðiþir
+                /*
+                if (sayac == 100000)
+                {
+                    saniye++;
+                    sayac = 0;
+                }
+                sayac++;
+                label1.Text = saniye.ToString();
+                Application.DoEvents();*/
+
+                //Ýkinci Saniye Yazma Yolu Bu Tam Olarak Saðlýklýdýr Fakat Yinede Kullanýlabilir Deðildir.
+                sayac++;
+                label1.Text = sayac.ToString();
+                Application.DoEvents();
+                Thread.Sleep(1000);
+            }
+
+Bu yollarý kullansak dahi baþka bir iþlem yapýldýðý zaman saniye akmayý durdurur. Çalýþma anýnda devam etmez.
+
+5-)Metodlar: Metodlar bir kodu birden fazla yerde kullanmamýz gerektiði zamanlarda tek bir kutu haline getirerek bütün deðiþiklikleri bu metod üzerinde deðiþtirerek her yerde deðiþtirmiþ oluruz metodlar  bu iþe yarar.
+Metodlar Nasýl Tanýmlanýr;
+   Ýçerisine deðer alan veya içerisine deðer almayan deðer gönderen veya deðer göndermeyen olarak tanýmlanýr.
+Void kelimesi bu metodun geriye hiçbir deðer döndermeyeceði anlamýna gelir. Metodun geriye deðer döndermeyen hali içerisindeki kodlar çalýþýr sonra biter. Metodun parantezleri arasýna hiç bir deðiþken tanýmlamadýysak bu metod
+parametre içermeyen metod olarak tanýmlanýr.
+
+Parantezler içine deðer atmanýn bir yoluda þudur;
+void toplama(int s1, int s2)
+{
+	Metod çaðrýldýðý zaman burdaki kodlar çalýþýr.
+}
+metodu çaðýrýyorum
+toplama(25, 12);
+bu þekilde çaðýrdýðým zaman s1'e 25 s2'ye 12 vermiþ oldum.
+toplama(s2:12, s1:25); 
+þeklinde tanýmladýðým zaman ilk baþya s2'ye deðer vermiþ oldum.
+
+Bir metodun geriye deðer döndermesini istiyorsak deðiþken tanýmlar gibi metod tanýmlarýz yani þu þekilde;
+int parola(int s1)
+{
+	return s1; --> bu þekilde return s1; komutu yazdýðýmýz zaman parola geriye s1 deðerini dönderir geriye dönderme iþlemini return ile yaparýz.
+}
+
+Her metodun kendine ait bir imzasý bulunur bu imzalarý belirleyen ise geriye deðer döndermesi döndermemesi veya parametre alýp almamasýdýr. Bir metodun parametreleri ayný ismi farklý veya ismi ayný parametreleri farklý olabilir. Yani bir
+metod'un herþeyi ayný sadece bir özelliði farklý olduðu durumda bu metod'u bir kaç defa oluþturabiliriz Örneðin;
+void toplama(int a)
+{
+
+}
+
+void toplama (int a, int b)
+{
+
+}
+þeklinde tanýmlayabiliriz metodu çaðýrýrken ilk metodu çaðýrmak için tek parametre yazarýz ikinciyi çaðýrmak için çift parametre yazarýz.
+
+6-)Runtime Contols: Çalýþma zamanýndaki kontroller anlamýna gelir biz uygulama çalýþýrken buton text box ve benzeri toolbox araçlarýný ekleyebilmemize yarýyor.
+
+7-)Hata Türleri:
+7-1:Derleme Hatalarý (Build Error):
+     En kolay hata türüdür uygulama çalýþmadan önce visual studio sayesinde hatayý bize gösteriyor. Daha çok yazým yanlýþlarý veya convert etme hatalarý ile oluþur.
+
+7-2:Çalýþma Zamaný Hatalarý (Runtime Error):
+     Çalýþma zamanýnda uygulamanýn sonlandýrýlýp string bir deðeri int'a çeviri yaparken metinsel ifade girildiði zaman int'a convert edilemediði için çalýþma anýnda hata verir. Çalýþma hatalarý daha çok örnek ile pekiþtirilebilir.  Bu hatalarý 
+yakalayýp engellemek için tryCatch yapýsý ile çözülür. Ýngilizce Anlamý try dene catch yakalama anlamýna gelir yakalamayý dene anlamýna gelir. Eðer bir hata tespit edilir ise uygulamayý durdurmak yerine uyarý veya bir iþlem gerçekleþtirebiliriz.
+-Throw: Hata fýrlat anlamýna gelir eðer catch yapýsý içerisinde bulunur ise varsayýlan olarak throw olduðu için runtime anýnda hata verir. 
+Bazý durumlarda catch yapýsýna sayý girilse dahi girilebilir çünkü farsayýlan olarak catch parantezi excaption içerir int veya long tiplerini convert yapacak iken excaption menüsü yardýmý ile ne tür hatalar alabileceðimizi görebiliriz. Örneðin
+kullanýcý sayý girdi fakat hesaplanamýyacak kadar büyük bir sayý girdiði zaman catch(excaption) içine girer ve hata lütfen yazý giriniz yazar bunlarý özel isimlendirmemiz gerekir. FormatExcaption veya OverflowExcaption gibi.
+
+7-3:Mantýksal Hatalar(Logical Error):
+     Mantýksal hatalar hata türleri arasýnda en zor bulunan hata türüdür çünkü derleme zamanýnda veya çalýþma zamanýnda hata vermiyor fakat yapmak istediðiniz iþlemi tamamý ile yerine getiremiyor. Örneðin bitane hesap makinesi yaptýnýz
+ve 5 ile 10'u toplamak istiyorsunuz bunu topladýðýnýz zaman 16 çýkýyor ise mantýksal bir hatadan dolayý kaynaklanýyordur. Mantýksal hatalar örneðim gibi basit deðildir fakat kýsaca þöyle anlatabiliriz bir function'un görevini düzgün yerine
+getirememesidir. Bu hatalarýn girerilmesi için tek yapýlabilecek breakpoint aracýdýr.
+
+8-)BackGround Worker (Arka Plan Çalýþaný): 
+     Normal kodlarýmýz çalýþýrken tek thread veya çekirdek içinde iþlem yapýlýr ve sürekli bir döngü oluþtuðu zaman hiç bir iþ veya baþka bir iþlem yapamayýz birden fazla iþi aynanda yapabilmek için timer kullanmýþtýk. Timer kimi zaman
+performanslýdýr fakat kimi zamanda performansý azdýr. BackgroundWorker içindeki dowork eventi iþlemcide kendine ait bir thread açar ve iþlemlere burdan devam ettirir.
+ Çalýþtýrabilmek için;
+Backgroundworker1.RunWorkerAsync(); ---> Worker'ý asenkron olarak çalýþtýr.
+Bu iþlemi yaptýðýmýz zaman önümüze bir hata gelecek biz örneðin sürekli 10000' e kadar sayý yazdýrýyoruz bunu'da label'a yazdýrýyoruz label'a birden fazla thread eriþmeye çalýþtýðý için hata veriyor bunu engellemek için public form1 metodu
+içerisinde CheckForIllegalThreadCalls özelliðini false yapmamýz gerekiyor.
+
+ Durdurmak için;
+Bu iþlemi yaptýðýmýz zaman varsayýlan olarak backgroundworker'un cancel yapma özelliði kapalýdýr. Bunu deðiþtirebilmek için WorkerSupportsCancellitation özelliðini true yapmamýz ve ayný zamanda cancelasync ile cancel metodunu çaðýrýp
+worker parantezleri içerisinde eðer WorkerSupportsCancelitation özelliði true gelirse e.Cancel = true; yapýp return; ile bulunduðumuz kodlarý terk etmemiz gerekiyor;
+Backgroundworker1.CancelAsync(); ---> Asenkron'u iptal et.
+
+isBussy: Bu özellik backgroundworker meþgulmü diyerek kontrol edebilmemizi saðlar.
+
+ÖDEV 24: Uçak Otomasyon Sistemi Yap.
+
+9-)User Control: Bazý uygulamalarda birden fazla 2'li kontrol kullanýyoruz ayný kontrolleri uðraþarak tekrar tekrar atýyoruz bunun yerine usercontrol ekliyerek tek seferde çoklu kontrolleri form'un içine atabiliyoruz. Eðer bu usercontrollerden
+veri çekmek istersek modifiers özelliðini public yapmamýz gerekir.
+
+10-)Mdi Form: Biz otomasyon sistemleri oluþtururken rezerve et kýsýmlarýnda ayrý bir form açmýþtýk. Mdi forms bu ayrý formlarýn baþka bir türlüsüdür ekraný ilk formun kendisi olarak algýlar. Yani biz bir form oluþturduðumuz zaman bilgisayar
+ekranýmýz üzerinde nereye götürürsek kötürebiliriz ekranýmýz monitörümüzdür. Fakat mdi forms'da bu ekraný mdi formsu attýðýmýz form ekran olarak tanýmlanýr dýþarýda iþlem göremez sadece form içinde bir form oluþur.
+NOT: Bir mdi formu show dialog ile açamazsýnýz show kullanmak zorundasýnýz.
+
+											C#'DA OOP
+OOP NEDÝR ?: OOP (Object Oriantel Programing) Nesneye Yönelik Programlama anlamýna gelir eski dillerden beri bir sayfa üzerinde tüm kodlarý yazýyor ve sýçrama yöntemi ile kodlar üzerinde iþlem yapýlýyordu. Ýnsana daha uzak ve daha
+kullanýþsýzdý bu yüzden OOP çýktý ve class'lar ile iþlem yapabilmemize olanak saðladý bu yüzden ismi nesneye yönelik programlama oldu.
+Access Modifiers - Eriþim Belirleyici
+         Bir deðiþkenin veya genelleme olarak içerisinde bir veri tutan bir kodun geriye deðer dönderen herhangibir þeyin Acces Modifiers'i vardýr. Bu acces modifiers eriþimi belirler kiþiselmi bütün projede eriþilebilirmi diðer taraflardan
+müdahale edilebilirmi gibi birçok yapýyý belirler biz kodlarý yazarken hiç bir zaman yazmadýk çünkü default olarak Acces Modifiers 'Private' olarak belirlidir.
+          Acces Modifiers Yapýlarý;
+         * 1-)Private - Varsayýlandýr kiþisel anlamýna gelir sadece bulunduðu yapý içerisinden eriþilebilir.
+         * 2-)Internal - Bulunduðu proje içerisinde her yerden eriþilebilirdir farklý projeden eriþilemez.
+         * 3-)Protected - Korunmuþ anlamýna gelir miras alýnan sýnýflar içerisinde eriþilebilir.
+         * 4-)Protected Internal - Hem miras alýnan sýnýflar içerisinden eriþilebilir hemde proje içerisinden eriþilebilir.
+         * 5-)Public - Heryere açýk anlamýna gelir her yerden herþekilde eriþilebilirdir.
+Oluþturulan sýnýf artýk bir deðiþken türü olarak da kullanýlabilir. Dizi oluþturulabilir veya class'ýmýzýn türünde bir deðer içeren deðiþken oluþturulabilir.
+
+        Bu þekilde ekleme iþlemi yaptýðýmýz zaman farklý bir click event tarafý deðiþir ve deðiþmesi gerektiði zaman teker teker her yerden deðiþtirmemiz gerekecek bu yüzden ekleme kýsmýný sýnýf ile yapmak yani class ile yapmak (nesne) 
+        daha avantajlýdýr tek bir yerden deðiþtirildiði zaman her yerden deðiþtirir.
+        private void btnekle_Click(object sender, EventArgs e)
+        {
+            string isim = txtisim.Text;
+            string soyisim = txtsoyisim.Text;
+            DateTime dogumtarihi = dtpdogumtarihi.Value;
+            personelekle(isim, soyisim, dogumtarihi);
+        }
+
+        void personelekle(string isim,string soyisim,DateTime dogumtarihi)
+        {
+            //VERÝ TABANINA PERSONEL EKLEME ÝÞLEMÝ YAPILIR
+        }
+	
+	------------
+
+
+        Bu þekilde tanýmlandýðý zaman class tarafýnda bir veri deðiþmesi bizi ilgilendiren birþey deðildir class üzerinden deðiþtirmemiz yeterlidir.
+        private void btnekle_Click(object sender, EventArgs e)
+        {
+            Personel prs = new Personel();
+            prs.isim = txtisim.Text;
+            prs.soyisim = txtsoyisim.Text;
+            prs.dogumtarihi = dtpdogumtarihi.Value;
+            prs.personelekle();
+        }
+
+BÖLÜM 1:Constructor (Yapýcý Metod);
+         * Nesnenin ram'de üretilmesini saðlayan metoddur. Tanýmlanmaz ise default olarak metod belirlidir.
+         * Constructor Metodlarýnýn Overload'u vardýr. Yani bir tane metod var gözükür isimleri aynýdýr fakat parametre deðerleri deðiþtiði için imzasý deðiþmiþ oluyor bu þekilde overload yani tekrar ayný metodu oluþturma yapabiliriz.
+            Yani biz constructor'u overload yapabiliriz.
+         * Constructor geriye deðer döndermez bu yüzden voide gerek yoktur. Bu yüzden tek geriye dönüþtipi olmayan metoddur. Eðer biz kendimiz yeni bir constructor oluþturursak default constructor iptal olur.
+         * Bir sýnýf için new kullandýðýmýz zaman klonlamýþ veya örnek üretmiþ oluyoruz bunun ismi "INSTANCE"'dýr.
+         * Kýsacasý Constructor ram'de alan inþa etmemizi ve kod'lar çalýþmadan önce bir deðer atamamýz gerekiyorsa constructor metodu ile yapýlýr. Constructor metodlarý sýnýf ismi (class) ile ayný olmak zorundadýr.
+         *Object Initializer
+         * Constructor'ün bitmesini saðlamýþtýr new Personel(); yerine new Personel {} þeklinde tanýmlanýr ve süslü parantezler içerisinde direk istediðimiz deðerleri gönderebiliyoruz. Object Initializer tanýmlarken örneðin new Personel
+         * {
+         *      adi = ad,
+         *      soyadi = soyad;
+         * }
+         * Þeklinde kullanýlýr.
+         */
+
+        Ram bizim arka plandaki verilerimizi tuttan cihazdýr. Bir uygulama her zaman ram'de belli bir yer kaplar. Ram'de 2 türlü bir yapý vardýr. Bunlar 'Stack' ve 'Heap' dir.
+        Biz örneðin personel metodunu çaðýrýyoruz: Personel p; þeklinde tanýmladýðýmýz zaman stack tarafýna p = null; deðeri atýlýr ve heap de bir yer oluþmaz. Eðer biz: Personel p = new Personel(); þeklinde tanýmlanan bir metod yazarsak
+        bu sefer heap kýsmýna gider p = new Personel(); yazar ve bir geriye seri numarasý dönderir örneðin 1a45x7 bu seri numarasý stack kýsmýna gider ve p = 1a45x7; þeklinde tanýmlanýr. Yani bu þekilde ram'de istediðimiz þekilde yer inþa
+        ettirmiþ oluruz. Her new Personel(); metodu kullandýðýmýz zaman tekrar bir seri numarasý üretir ve birbirinden farklý birden fazla personel sýnýfý çaðrýlmýþ olunur. Yani personel sýnýfýný çaðýrýrken klonlayýp ram'de inþasýný tamamlayýp
+        içerisine deðer atýyoruz.
+
+        Personel() ---> Bu bir constructor'dür.
+        {
+
+        }
+
+BÖLÜM 2:Encapsulation (Kapsulleme);
+         Field: Bir sýnýf içerisinde tanýmlanan deðiþkenlere field yani alan denir.
+         * Mesela admin paneli oluþturduðumuz zaman veya kayýt ol yaptýðýmýz zaman field'ýn içerisine deðer atamadan önce yapmamýz gereken bu kullanýcý adýndan varmý yada admin ismine uyuyormu gibi kontrol iþlemi yapmak ve veri tabaný
+         güvenliðini saðlamak için veri tipinin güvenliðini saðlamak gerekiyor bunun için encapsulation yöntemi kullanýlýyor.
+         * Encapsulation yönteminin Auto property olarak bir yöntemi daha vardýr.
+         * Auto Property;
+         * Field tanýmlanmaz arka plandaki field'ýný kendi tutar.
+         * get ve set metodlarý deðiþtirilemez. deðiþtirilmek istenirse auto property bozulur ve arka plandaki field'ý elimiz ile tanýmlamamýz gerekir.
+
+        Encapsulation Yöntemidir. Field'lar oluþturulurken _ ile veya küçük harflerle tanýmlamak tercih edilir. Field gizli tutulur dýþarýdan eriþebilmek için aracý olarak property kullanýlýr.
+        private string _kladi; ---> Bu bir field'dir. Ana deðiþkendir dýþardan eriþime kapalýdýr.
+
+        internal string kladi ---> Bu bir property'dir. Ýngiliz anahtarý simgesi ile form.cs den ulaþýlýr.
+        {
+            get
+            {
+                return _kladi; ---> Geriye _kladi'yý dönderir.
+            }
+            set ---> Eðer set metodunu kullanmaz isek sadece get ile oluþturur isek property readonly olur ve deðer atamasý yapýlamaz.
+            {
+                if (value == "Admin") ---> Kullanýcýda dýþardan girilen deðer 'Value' olarak tutulur.
+                {
+                    _kladi = value; ---> Value sadece set içerisinde barýnýr.
+                }
+            }
+        }
+
+        internal string AutoProperty { get; set; } ---> Bu bir Auto Property'dir. Auto property bize koþulsuz deðer attýðýmýz zaman fakat daha sonradan deðer atmamýz gerektiði zaman lazým olur.
+
+        Eðer Encapsulation yöntemi olmasaydý bu iþlemi þu þekilde yapacaktýk.
+        private string kladi;
+        internal void Kayitekle (string gelenkladi)
+        {
+            if (gelenkladi == "Admin")
+            {
+                kladi = "Admin";
+            }
+        }
+
+        internal string Kayitdonder ()
+        {
+            if (kladi != null)
+            {
+                return kladi;
+            }
+        }
+
+BÖLÜM 3:Inheritance (Miras);
+    Bu þekilde tanýmlandýðý zaman çocuklar ebebeyinlerden ebebeyinler aileden aile de insanlardan yani temel olarak herkes bir insandýr. Ebebeyin ve çocuklarýn ortak özellikleri ailedir fakat ebebeyin ve çocuklar birbirlerinden farklý
+    özelliklerde barýndýrýr temel sýnýf insan sýnýfýdýr.
+    class Cocuklar : Aile
+    {
+          Inheritance - Miras
+         * OOP günlük yaþantýmýzdan alýntý yapýlarak oluþturulmuþtur. Örneðin bir aile ferdimiz öldüðü zaman bize bir miras kalýr veya biz ebebeyinlerimizin genlerini miras almýþýzdýr. Yükseltisek biz ilk insandan miras almýþýzdýr. Biz bir canlýyýzdýr
+         biz bir varlýðýzdýr. Her zaman temel özelliðler vardýr canlýlar solunum yapar besin enerjiye ihtiyaç duyarlar vb. þekillerde ortak özellikleri vardýr. Bizim'de bu miras olayýnda ayný þekilde bir miras alacaðýmýz temel bir sýnýf olmasý gerekir. 
+         Çocuklar ebebeyinleri gibi isim ve soyisime doðum tarihine saçlara nefes almaya sahiptir. Sahip olduklarý ortak þeyler vardýr. Bu ortak þeyler miras yolu ile geçer. Miras alma yolu kendi sýnýfýmýzýn yanýna ':' ile baba sýnýf ismi yazarak 
+         gerçekleþtirilir. Burada çocuk sýnýfý ve ebebeyin sýnýfý Aile'den Aile ise Ýnsan'dan miras alýr. Bir class miras sistemi oluþtururken þema oluþturur gibi yapmalýyýz.
+    }
+
+BÖLÜM 4: Polymorphism (Çok Biçimlilik);
+         * Polymorphism Sýnýflar içerisinde miras yolu ile çalýþan sýnýflar'da bir metodun ana sýnýf içerisinde yer almasý ve bizim bu ana metod içerisindeki metodu kendimize göre þekillendirmemiz gerektiði için Polymorphism ortaya çýkmýþtýr. Biz
+         þu anda zorunsuz Polymorphism göreceðiz.
+         * Polymorphism ikiye ayrýlýr. 1.Zorunlu Polymorphism 2.Zorunsuz Polymorphism.
+         * Zorunlu Polymorphism'de iþaretleme yapýlýrken iki terim vardýr.
+         * a-)Virtual: Bu komut ile iþaretlenmiþ metod deðiþtirilebilir anlamýna gelir. Yani bu metod ezilebilir denmiþ olur. Ýsteðe baðlý yani Zorunsuz Polymorphism'dir
+         * b-)Override: Bu komut 'Virtual' ile iþaretlenmiþ metodlar üzerinde istediðimiz þekilde deðiþim geri dönderilen yazýyý kodu veya iþlemleri deðiþtirebilmemizi saðlar. Ezmek anlamýna gelir.
+
+class Kedi
+    {
+        public int kilo { get; set; }
+
+        public int yas { get; set; }
+
+        public string ismi { get; set; }
+
+        public virtual string Gozrengi()
+        {
+            return "Kedinizin Gözrengi Mavidir.";
+        }
+    }
+
+class Ankarakedisi : Kedi
+    {
+        public override string Gozrengi()
+        {
+            return "Ankara Kedisinin Gözrengi Mavidir."; ---> Override yapýldýðý zaman geriye Bu dönderilir.
+        }
+    }
+
+BÖLÜM 5: Struct;
+     C#'da 5 tane temel tip vardýr bunlar: struct,Enumaration,Class,Delegate,Interface'dir. Struct class'ýn daha küçük daha basittir. Eðer sýnýf içerisinde override Polymorphism Inheritance gibi yapýlarý kullanmayacaksak ram'de daha az yer
+kaplamasýnýndan dolayý struct kullanabiliriz. 
+
+class ---> *1!* Ogrenci
+    {
+             Struct ekle yeni item struct þeklinde eklenmez ilk baþta class oluþturulur 1! koyduðum yerdeki class silinerek yerine struct yazýlýr biz bu tarafta struct tanýmlamayacaðýz çünkü Ogrenci class'ýnda daha sonradan miras kalmasýný
+         isteyebiliriz veya override Polymorphism gibi yapýlar kullanabiliriz. Normal kodlarda kullandýðýmýz int decimal sbyte gibi deðiþkenlerde struct'dýr.
+
+        public string isim { get; set; }
+
+        public string soyisim { get; set; }
+
+        public long tckn { get; set; }
+
+        public int yas { get; set; }
+
+        public string sinif { get; set; }
+
+        public Ders ders { get; set; } //---> Struct bu þekilde tanýmlanýr deðiþken ismi gibi yazilir.
+    }
+
+struct Ders
+    {
+        Bu bir struct'týr.
+
+        public int kredi { get; set; }
+
+        public int haftalikderssaati { get; set; }
+
+        public int gecmenotu { get; set; }
+
+        public int kredikatsayisi { get; set; }
+    }
+
+BÖLÜM 6: Enum (Enumaration);
+class Ogrenci
+    {
+          Enum - Enumaration
+         * Enum struct gibi bir yapýdýr fakat struct bir deðiþken tipi'ne benzerken enum bir liste yapýsýna benzer biz bir butonun rengini deðiþtirirken buton.BackColor = Color.White; gibi tanýmlarýz buradaki Color bir enum'dur Enum iki þekilde
+         tanýmlanýr struct tanýmlar gibi veya !1 iþaretlediðim yer gibi.
+         * Enum yapýsýnýn elemanlarýnýn index numaralarý vardýr. Ýlk eklenen eleman 0 ikinci 1 gibi index numaralarý devam eder ve bir enum tanýmlarken index numaralarýný da kullanabiliriz. Eðer biz index numaralarý ile kullanmak istemiyorsak
+         içerideki deðerlere kendimiz bir sayý verebiliriz fakat index numaralarý kaybolmaz ama burdaki alana cast ederek ulaþýladabilir !2 de gösterildiði gibi.
+         * Enumlarda GetName ve GetNames olarak iki adet metod vardýr.
+         * GetName: GetName kullanýcýnýn verdiði tipte ve hangi class üzerindeki enum deðerini göstermek istiyorsak onun ismi gereklidir geriye string deðer dönderir kullanýmý þu þekildedir;
+         * GetName(typeof(Alan),alan.alani);
+         * GetNames: Adýndan'da anlaþýlabileceði gibi belirtilen tip deki tüm içeriði gösterir ve geriye string dizisi olarak dönderir kullanýmý þu þekildedir;
+         * GetNames(typeof(Alan));
+
+        public string isimsoyisim { get; set; }
+
+        public string sinif { get; set; }
+
+        public Alan alani { get; set; }
+    }
+
+    *1!*
+    public enum Alan
+    {
+        Sayisal = 10, ---> *2!*
+        Sozel,
+        Esitagirlik,
+        Dil
+    }
+
+BÖLÜM 7: Static (Duraðan);
+class Ogrenci
+    {
+        public Ogrenci() ---> Consturctor Metodu
+        {
+            Burda her yeni bir instance yani ram'de yeni bir ogrenci class'ý oluþturulduðu zaman tanimlanma sayisini bir arttýrarak kaç adet ogrenci instance olduðunu öðrenebiliyoruz.
+            tanimlanmasayisi++;
+        }
+
+         Static - Duraðan
+         * Static bir yapýnýn tek bir kez tanýmlanmasýný form.cs de yaptýðýmýz gibi global olarak tanýmlanmasýný yada ram'de static bir yere sahip olmasý diyebiliriz. Ram'de ayrýca kendi için bir alan açýlýr ve kullanýlmak istendiði zaman kendisi
+         bulunup iþlem yapýlýr. Örneðin MessageBox.Show(); show metodu MessageBox class'ýnýn içinde olmasýna raðmen yeni bir instance oluþturmadan kullanabiliyoruz. Peki bunu ne saðlýyor bunu show metodunun static olmasý saðlýyor.
+         Biz de bunun gibi bir static eleman saðlýyalým. 1!'de görebilirsiniz.
+         * Static eleman oluþturulduðu zaman static eleman static olmayan elemana static olmayan eleman ise static olan elemana ulaþamaz. Static eleman static elemana static olmayan eleman static olmayan elemana ulaþabilir.
+         * Her þeyi static yapabiliriz bir sýnýfý bir metodu veya bir field'i.
+         * Bir sýnýfý static yapar isek static olmayan elemaný olmamasý gerekir eðer sýnýf static olursa instance üretilemez ve static olmayan elemana ulaþýlamaz.
+
+        public string adisoyadi { get; set; }
+
+        public string sinifi { get; set; }
+
+        //Artýk bu yapýnýn ram'de heap bölümünde kendine ait bir yapýsý bulunur ve bu class üzerinden eriþilmek istendiði zaman tüm instance'ler tarafýndan eriþilebilir.
+        public static int tanimlanmasayisi { get; set; } ---> *1!*
+
+BÖLÜM 8: Abstract (Soyut);
+         * Biz polymorphism de zorunsuz isteðe baðlý override gördük zorunlu olarak yapýlabilmesini saðlayan abstrarct'dýr. Abstract sýnýflar içerisinde miras verilmek için tasarlanan sýnýflardýr. Sýnýfa özel deðildir field'lar property'ler metodlar da
+          abstract olabilir.
+         * Bir metod için veya baþka bir kod için virtual yerine abstract yazýldýðý zaman ezilebilir deðil ezilmeli olarak iþaretlenir. Yani abstract olan bir metod veya kodu mecburen ezilmelidir.
+         * Abstract bir metodun gövde yapýsý içermez çünkü ezilmeye zorladýðýmýz için gövde yapýsýný kullanmamýza gerek yoktur bu yüzden bir abstract metod yazarken gövde yani süslü parantezler yazýlmaz.
+         * Abstract bir metod veya kod sadece abstract bir sýnýf içerisinde kullanýlýr.
+         * Sýnýf Abstract olsada içerisinde abstract olmayan bir metod veya property kullanýlabilir.
+         * Abstract'ýn tek amacý miras vermek içindir.
+
+        public string cal() ---> Abstract bir metod deðildir bu metod geriye bir þey dönderir.
+        {
+            return "Müzik Aleti Çalýnýyor";
+        }
+
+        public string cal() ---> Abstract bir metoddur. Ezilmesi zorunludur.
+
+BÖLÜM 9: Interface (Arabirim);
+class Oyuncu
+    {
+        public string adi { get; set; }
+
+        public int yasi { get; set; }
+
+        public int yasamdegeri { get; set; }
+
+        public void nisanal()
+        {
+            Niþan Alma Ýþlemi Yapýlacak.
+            if (oyuncusilahi is IYakinlastir)
+            {
+                oyuncununsilahi eðer IYakinlastir interface'ini özellik olarak kazanmýþ ise Buradaki iþlemler yapýlacak.
+                IYakinlastir ykn = (IYakinlastir)oyuncusilahi;
+                ykn.yakinlastir();
+            }
+        }
+
+        public void saldir()
+        {
+            Saldýrma Ýþlemi Yapýlacak
+        }
+
+        public Silah oyuncusilahi { get; set; }
+
+abstract class Silah
+    {
+        public int hasarpuani { get; set; }
+
+        public double agirlik { get; set; }
+    }
+
+class SAtesli : Silah
+    {
+        public int maxmermi { get; set; }
+
+        public void sarjordegistir ()
+        {
+            Þarjör Deðiþtirme Ýþlemi Burada Yapýlacak.
+        }
+    }
+
+class SDelici : Silah
+    {
+        public float dayaniklilik { get; set; }
+    }
+
+class AWP : SAtesli, IYakinlastir
+    {
+        public void yakinlastir()
+        {
+            //Yaknýlaþtýrma Ýþlemi Burada Yapýlýr.
+        }
+    }
+
+public interface IYakinlastir
+    {
+          Interface - Arabirim
+         * Biz bir sýnýftan miras alabiliyoruz fakat birden fazla miras alamýyoruz. Fakat almamýz gerekiyor ise intarface ara birim ekliyoruz arabirimi þu þekilde düþüne biliriz. Sýnýf bizim babamýzken sadece birtane babamýz olur ve ondan miras
+        alýrýz Ara birim ise bizim amcamýzdýr biz onlardan da miras alabiliriz özelliklerini alabiliriz. Interface de budur bir yetenek kazanabilme iþidir.
+         * Interface içerisinde property,metod,indexleyici ve event haricinde birþey bulunmaz.
+         * Interface içerisindeki elemanlarýn abstract metodunda olduðu gibi gövdesi bulunmaz.
+         * Interface'in Abstract'tan Farklarý;
+         * 1-Interface içerisinde sadece Abstract elemanlar bulunur. Gövdesiz elemanlar.
+         * 2-Interface içerisindeki elemanlarýn Acces Modifires'larý bulunmaz ve varsayýlan A-Modifiers'larý public'tir.
+         * 3-Interface'den instance üretilemez.
+        void yakinlastir();
+    }
+
+BÖLÜM 10: Generic 
+Dýþardan bir tip alýp o tipte eleman oluþturan bir yapýdýr.
+
+class Ogrenci <Temsili> where Temsili:class //---> Bu þekilde temsili elemanýný sadece class tipinde vermen gerekir.
+    {
+          Generic
+         * Dýþardan bir tip alarak çalýþmayý saðlayan yapýdýr. <> bu semboller ile belirtilir.
+
+        public string isimsoyisim { get; set; }
+
+        public int okulno { get; set; }
+
+        public int sinifi { get; set; }
+
+        public char subesi { get; set; }
+
+        public alan alani { get; set; }
+
+        public Temsili tmsl { get; set; }
+    }
+
+    enum alan
+    {
+        Say,
+        Soz,
+        EA,
+        Dil
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

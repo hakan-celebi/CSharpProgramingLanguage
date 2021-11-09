@@ -1,0 +1,10 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\bin\Debug\WindowsFormsApplication28_timer.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\bin\Debug\WindowsFormsApplication28_timer.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\bin\Debug\WindowsFormsApplication28_timer.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\28.WindowsFormsApplication28_timer\WindowsFormsApplication28_timer\obj\Debug\WindowsFormsApplication28_timer.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\bin\Debug\22-)Progges Bar ve Performance Counter.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\bin\Debug\22-)Progges Bar ve Performance Counter.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\bin\Debug\22-)Progges Bar ve Performance Counter.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\22-)Progges Bar ve Performance Counter.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\_22__Progges_Bar_ve_Performance_Counter.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\_22__Progges_Bar_ve_Performance_Counter.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\22-)Progges Bar ve Performance Counter.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\22-)Progges Bar ve Performance Counter.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\22-)Progges Bar ve Performance Counter.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\22-)Progges Bar ve Performance Counter\22-)Progges Bar ve Performance Counter\obj\Debug\22-)Progges Bar ve Performance Counter.pdb

@@ -1,0 +1,37 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Form1.resources
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Properties.Resources.resources
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.GenerateResource.Cache
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe.config
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csprojResolveAssemblyReference.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Form1.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Properties.Resources.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.GenerateResource.Cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.CoreCompileInputs.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\bin\Debug\WindowsFormsApplication20_listbox uygulama.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox_uygulama.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\20.WindowsFormsApplication20_listbox uygulama\WindowsFormsApplication20_listbox uygulama\obj\Debug\WindowsFormsApplication20_listbox uygulama.pdb

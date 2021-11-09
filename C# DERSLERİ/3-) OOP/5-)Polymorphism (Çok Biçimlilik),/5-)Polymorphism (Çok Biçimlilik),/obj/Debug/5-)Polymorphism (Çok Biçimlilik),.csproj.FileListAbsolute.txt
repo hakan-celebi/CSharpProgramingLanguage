@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\bin\Debug\5-)Polymorphism (Çok Biçimlilik),.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\bin\Debug\5-)Polymorphism (Çok Biçimlilik),.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\bin\Debug\5-)Polymorphism (Çok Biçimlilik),.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\5-)Polymorphism (Çok Biçimlilik),.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\_5__Polymorphism__Çok_Biçimlilik__.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\5-)Polymorphism (Çok Biçimlilik),.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\5-)Polymorphism (Çok Biçimlilik),.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\5-)Polymorphism (Çok Biçimlilik),.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\5-)Polymorphism (Çok Biçimlilik),.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\5-)Polymorphism (Çok Biçimlilik),\5-)Polymorphism (Çok Biçimlilik),\obj\Debug\_5__Polymorphism__Çok_Biçimlilik__.Form1.resources

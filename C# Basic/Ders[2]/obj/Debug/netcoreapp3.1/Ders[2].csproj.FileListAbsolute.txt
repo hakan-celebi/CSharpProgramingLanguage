@@ -1,0 +1,13 @@
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].exe
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].deps.json
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].runtimeconfig.json
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].runtimeconfig.dev.json
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].dll
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\bin\Debug\netcoreapp3.1\Ders[2].pdb
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].csprojAssemblyReference.cache
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].AssemblyInfoInputs.cache
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].AssemblyInfo.cs
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].dll
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].pdb
+C:\Users\hkncl\Desktop\C# Dersleri\Ders[2]\obj\Debug\netcoreapp3.1\Ders[2].genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\bin\Debug\ConsoleApplication6_whiledongusu.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\bin\Debug\ConsoleApplication6_whiledongusu.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\bin\Debug\ConsoleApplication6_whiledongusu.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\obj\Debug\ConsoleApplication6_whiledongusu.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\obj\Debug\ConsoleApplication6_whiledongusu.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\6.ConsoleApplication6_whiledongusu\ConsoleApplication6_whiledongusu\obj\Debug\ConsoleApplication6_whiledongusu.pdb

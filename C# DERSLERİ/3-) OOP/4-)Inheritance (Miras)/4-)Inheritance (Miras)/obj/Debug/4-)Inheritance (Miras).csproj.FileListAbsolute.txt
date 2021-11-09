@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\bin\Debug\4-)Inheritance (Miras).exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\bin\Debug\4-)Inheritance (Miras).exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\bin\Debug\4-)Inheritance (Miras).pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\4-)Inheritance (Miras).csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\_4__Inheritance__Miras_.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\_4__Inheritance__Miras_.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\4-)Inheritance (Miras).csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\4-)Inheritance (Miras).csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\4-)Inheritance (Miras).exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\4-)Inheritance (Miras)\4-)Inheritance (Miras)\obj\Debug\4-)Inheritance (Miras).pdb

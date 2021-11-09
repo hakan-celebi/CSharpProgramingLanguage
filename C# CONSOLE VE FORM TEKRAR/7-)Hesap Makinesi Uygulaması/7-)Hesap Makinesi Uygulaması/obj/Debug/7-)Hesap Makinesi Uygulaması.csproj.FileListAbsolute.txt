@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\bin\Debug\7-)Hesap Makinesi Uygulaması.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\bin\Debug\7-)Hesap Makinesi Uygulaması.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\bin\Debug\7-)Hesap Makinesi Uygulaması.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\7-)Hesap Makinesi Uygulaması.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\_7__Hesap_Makinesi_Uygulaması.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\_7__Hesap_Makinesi_Uygulaması.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\7-)Hesap Makinesi Uygulaması.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\7-)Hesap Makinesi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\7-)Hesap Makinesi Uygulaması.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\7-)Hesap Makinesi Uygulaması\7-)Hesap Makinesi Uygulaması\obj\Debug\7-)Hesap Makinesi Uygulaması.pdb

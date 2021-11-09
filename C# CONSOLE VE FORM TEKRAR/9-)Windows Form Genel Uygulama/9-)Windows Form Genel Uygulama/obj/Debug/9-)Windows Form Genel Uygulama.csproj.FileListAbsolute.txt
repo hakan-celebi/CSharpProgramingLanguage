@@ -1,0 +1,11 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\bin\Debug\9-)Windows Form Genel Uygulama.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\bin\Debug\9-)Windows Form Genel Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\bin\Debug\9-)Windows Form Genel Uygulama.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\9-)Windows Form Genel Uygulama.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\_9__Windows_Form_Genel_Uygulama.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\9-)Windows Form Genel Uygulama.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\9-)Windows Form Genel Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\9-)Windows Form Genel Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\9-)Windows Form Genel Uygulama.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\_9__Windows_Form_Genel_Uygulama.ISIMARAMA.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\9-)Windows Form Genel Uygulama\9-)Windows Form Genel Uygulama\obj\Debug\_9__Windows_Form_Genel_Uygulama.TCKONTROL.resources

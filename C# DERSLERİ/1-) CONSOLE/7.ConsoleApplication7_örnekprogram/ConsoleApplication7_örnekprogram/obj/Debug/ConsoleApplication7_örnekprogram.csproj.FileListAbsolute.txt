@@ -1,0 +1,9 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\bin\Debug\ConsoleApplication7_örnekprogram.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\obj\Debug\ConsoleApplication7_örnekprogram.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\bin\Debug\ConsoleApplication7_örnekprogram.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\bin\Debug\ConsoleApplication7_örnekprogram.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\obj\Debug\ConsoleApplication7_örnekprogram.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\obj\Debug\ConsoleApplication7_örnekprogram.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\bin\Debug\ConsoleApplication7_örnekprogram.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\obj\Debug\ConsoleApplication7_örnekprogram.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\7.ConsoleApplication7_örnekprogram\ConsoleApplication7_örnekprogram\obj\Debug\ConsoleApplication7_örnekprogram.pdb

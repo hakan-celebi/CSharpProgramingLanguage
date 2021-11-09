@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Ders_1_.Models.Student> /*View'ın modelinin belirtildiği yerdir.*/
+@{
+    ViewBag.Title = "Listing Students";
+
+    #region Html.DisplayNameFor
+    /*
+        Modelin, parametrede belirtilen property'nin DisplayName özelliğini tanımlar. Yani belirtilen property'nin tanımlı ismini geriye dönderir.
+    */
+    #endregion
+
+    #region Html.DisplayFor
+    /*
+        Verilen parametredeki property'nin değerini geriye dönderir.
+    */
+    #endregion
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <h1>List of Student</h1>
+        <p>@Html.ActionLink("Create New", "CreateStudent")</p>
+        <table class="table-bordered" style="text-align: center;">
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.SchoolNumber)</th>
+                <th>@Html.DisplayNameFor(model => model.Name)</th>
+                <th>@Html.DisplayNameFor(model => model.Surname)</th>
+                <th>@Html.DisplayNameFor(model => model.IdentityNumber)</th>
+                <th>@Html.DisplayNameFor(model => model.DepartmentName)</th>
+                <th>@Html.DisplayNameFor(model => model.SchoolTime)</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.SchoolNumber)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Surname)</td>
+                    <td>@Html.DisplayFor(modelItem => item.IdentityNumber)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DepartmentName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.SchoolTime.Year)</td>
+                    <td>
+                        @Html.ActionLink("Edit", "EditStudent", new { id = item.SchoolNumber })
+                        @Html.ActionLink("Details", "DetailsStudent", new { id = item.SchoolNumber })
+                        @Html.ActionLink("Delete", "DeleteStudent", new { id = item.SchoolNumber })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

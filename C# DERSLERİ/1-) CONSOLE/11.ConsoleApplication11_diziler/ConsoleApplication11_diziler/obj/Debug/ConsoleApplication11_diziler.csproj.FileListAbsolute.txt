@@ -1,0 +1,10 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\bin\Debug\ConsoleApplication11_diziler.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\bin\Debug\ConsoleApplication11_diziler.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\bin\Debug\ConsoleApplication11_diziler.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\bin\Debug\ConsoleApplication11_diziler.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\11.ConsoleApplication11_diziler\ConsoleApplication11_diziler\obj\Debug\ConsoleApplication11_diziler.csprojResolveAssemblyReference.cache

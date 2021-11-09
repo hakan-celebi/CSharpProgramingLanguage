@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\bin\Debug\1-)OOP Giriş.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\bin\Debug\1-)OOP Giriş.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\bin\Debug\1-)OOP Giriş.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\1-)OOP Giriş.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\_1__OOP_Giriş.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\_1__OOP_Giriş.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\1-)OOP Giriş.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\1-)OOP Giriş.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\1-)OOP Giriş.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\1-)OOP Giriş\1-)OOP Giriş\obj\Debug\1-)OOP Giriş.pdb

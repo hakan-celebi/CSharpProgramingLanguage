@@ -1,0 +1,12 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\bin\Debug\ConsoleApplication12_ornekprogram2.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\12.ConsoleApplication12_ornekprogram2\ConsoleApplication12_ornekprogram2\obj\Debug\ConsoleApplication12_ornekprogram2.pdb

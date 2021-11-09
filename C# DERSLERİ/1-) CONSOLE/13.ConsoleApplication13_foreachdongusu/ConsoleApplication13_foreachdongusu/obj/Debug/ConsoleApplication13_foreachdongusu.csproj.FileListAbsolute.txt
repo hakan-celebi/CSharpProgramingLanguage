@@ -1,0 +1,18 @@
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.csprojResolveAssemblyReference.cache
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\bin\Debug\ConsoleApplication13_foreachdongusu.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\13.ConsoleApplication13_foreachdongusu\ConsoleApplication13_foreachdongusu\obj\Debug\ConsoleApplication13_foreachdongusu.pdb

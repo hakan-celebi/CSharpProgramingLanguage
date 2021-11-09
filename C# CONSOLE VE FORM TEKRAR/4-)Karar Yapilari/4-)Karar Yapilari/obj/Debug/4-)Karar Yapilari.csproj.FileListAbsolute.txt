@@ -1,0 +1,7 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\bin\Debug\4-)Karar Yapilari.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\bin\Debug\4-)Karar Yapilari.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\bin\Debug\4-)Karar Yapilari.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\obj\Debug\4-)Karar Yapilari.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\obj\Debug\4-)Karar Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\obj\Debug\4-)Karar Yapilari.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\4-)Karar Yapilari\4-)Karar Yapilari\obj\Debug\4-)Karar Yapilari.pdb

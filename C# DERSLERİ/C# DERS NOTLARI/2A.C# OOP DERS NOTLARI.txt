@@ -1,0 +1,388 @@
+OOP NEDÝR ?: OOP (Object Oriantel Programing) Nesneye Yönelik Programlama anlamýna gelir eski dillerden beri bir sayfa üzerinde tüm kodlarý yazýyor ve sýçrama yöntemi
+ile kodlar üzerinde iþlem yapýlýyordu. Ýnsana daha uzak ve daha kullanýþsýzdý bu yüzden OOP çýktý ve class'lar ile iþlem yapabilmemize olanak saðladý bu yüzden ismi
+nesneye yönelik programlama oldu.
+Access Modifiers - Eriþim Belirleyici
+         Bir deðiþkenin veya genelleme olarak içerisinde bir veri tutan bir kodun geriye deðer dönderen herhangibir þeyin Acces Modifiers'i vardýr. Bu acces modifiers eriþimi 
+belirler kiþiselmi bütün projede eriþilebilirmi diðer taraflardan müdahale edilebilirmi gibi birçok yapýyý belirler biz kodlarý yazarken hiç bir zaman yazmadýk çünkü default
+olarak Acces Modifiers 'Private' olarak belirlidir.
+          Acces Modifiers Yapýlarý;
+         * 1-)Private - Varsayýlandýr kiþisel anlamýna gelir sadece bulunduðu yapý içerisinden eriþilebilir.
+         * 2-)Internal - Bulunduðu proje içerisinde her yerden eriþilebilirdir farklý projeden eriþilemez.
+         * 3-)Protected - Korunmuþ anlamýna gelir miras alýnan sýnýflar içerisinde eriþilebilir.
+         * 4-)Protected Internal - Hem miras alýnan sýnýflar içerisinden eriþilebilir hemde proje içerisinden eriþilebilir.
+         * 5-)Public - Heryere açýk anlamýna gelir her yerden herþekilde eriþilebilirdir.
+Oluþturulan sýnýf artýk bir deðiþken türü olarak da kullanýlabilir. Dizi oluþturulabilir veya class'ýmýzýn türünde bir deðer içeren deðiþken oluþturulabilir.
+
+        Bu þekilde ekleme iþlemi yaptýðýmýz zaman farklý bir click event tarafý deðiþir ve deðiþmesi gerektiði zaman teker teker her yerden deðiþtirmemiz gerekecek bu yüzden
+        ekleme kýsmýný sýnýf ile yapmak yani class ile yapmak (nesne) 
+        daha avantajlýdýr tek bir yerden deðiþtirildiði zaman her yerden deðiþtirir.
+        private void btnekle_Click(object sender, EventArgs e)
+        {
+            string isim = txtisim.Text;
+            string soyisim = txtsoyisim.Text;
+            DateTime dogumtarihi = dtpdogumtarihi.Value;
+            personelekle(isim, soyisim, dogumtarihi);
+        }
+
+        void personelekle(string isim,string soyisim,DateTime dogumtarihi)
+        {
+            //VERÝ TABANINA PERSONEL EKLEME ÝÞLEMÝ YAPILIR
+        }
+	
+	------------
+
+
+        Bu þekilde tanýmlandýðý zaman class tarafýnda bir veri deðiþmesi bizi ilgilendiren birþey deðildir class üzerinden deðiþtirmemiz yeterlidir.
+        private void btnekle_Click(object sender, EventArgs e)
+        {
+            Personel prs = new Personel();
+            prs.isim = txtisim.Text;
+            prs.soyisim = txtsoyisim.Text;
+            prs.dogumtarihi = dtpdogumtarihi.Value;
+            prs.personelekle();
+        }
+
+BÖLÜM 1:Constructor (Yapýcý Metod);
+         * Nesnenin ram'de üretilmesini saðlayan metoddur. Tanýmlanmaz ise default olarak metod belirlidir.
+         * Constructor Metodlarýnýn Overload'u vardýr. Yani bir tane metod var gözükür isimleri aynýdýr fakat parametre deðerleri deðiþtiði için imzasý deðiþmiþ oluyor bu þekilde
+         overload yani tekrar ayný metodu oluþturma yapabiliriz. Yani biz constructor'u overload yapabiliriz.
+         * Constructor geriye deðer döndermez bu yüzden voide gerek yoktur. Bu yüzden tek geriye dönüþtipi olmayan metoddur. Eðer biz kendimiz yeni bir constructor oluþturursak
+         default constructor iptal olur.
+         * Bir sýnýf için new kullandýðýmýz zaman klonlamýþ veya örnek üretmiþ oluyoruz bunun ismi "INSTANCE"'dýr.
+         * Kýsacasý Constructor ram'de alan inþa etmemizi ve kod'lar çalýþmadan önce bir deðer atamamýz gerekiyorsa constructor metodu ile yapýlýr. Constructor metodlarý sýnýf
+         ismi (class) ile ayný olmak zorundadýr.
+         *Object Initializer
+         * Constructor'ün bitmesini saðlamýþtýr new Personel(); yerine new Personel {} þeklinde tanýmlanýr ve süslü parantezler içerisinde direk istediðimiz deðerleri 
+         gönderebiliyoruz. Object Initializer tanýmlarken örneðin new Personel
+         * {
+         *      adi = ad,
+         *      soyadi = soyad;
+         * }
+         * Þeklinde kullanýlýr.
+         */
+
+        Ram bizim arka plandaki verilerimizi tuttan cihazdýr. Bir uygulama her zaman ram'de belli bir yer kaplar. Ram'de 2 türlü bir yapý vardýr. Bunlar 'Stack' ve 'Heap' dir.
+        Biz örneðin personel metodunu çaðýrýyoruz: Personel p; þeklinde tanýmladýðýmýz zaman stack tarafýna p = null; deðeri atýlýr ve heap de bir yer oluþmaz. Eðer biz: Personel p = new Personel(); þeklinde tanýmlanan bir metod yazarsak
+        bu sefer heap kýsmýna gider p = new Personel(); yazar ve bir geriye seri numarasý dönderir örneðin 1a45x7 bu seri numarasý stack kýsmýna gider ve p = 1a45x7; þeklinde tanýmlanýr. Yani bu þekilde ram'de istediðimiz þekilde yer inþa
+        ettirmiþ oluruz. Her new Personel(); metodu kullandýðýmýz zaman tekrar bir seri numarasý üretir ve birbirinden farklý birden fazla personel sýnýfý çaðrýlmýþ olunur. Yani personel sýnýfýný çaðýrýrken klonlayýp ram'de inþasýný tamamlayýp
+        içerisine deðer atýyoruz.
+
+        Personel() ---> Bu bir constructor'dür.
+        {
+
+        }
+
+BÖLÜM 2:Encapsulation (Kapsulleme);
+         Field: Bir sýnýf içerisinde tanýmlanan deðiþkenlere field yani alan denir.
+         * Mesela admin paneli oluþturduðumuz zaman veya kayýt ol yaptýðýmýz zaman field'ýn içerisine deðer atamadan önce yapmamýz gereken bu kullanýcý adýndan varmý yada admin ismine uyuyormu gibi kontrol iþlemi yapmak ve veri tabaný 
+         güvenliðini saðlamak için veri tipinin güvenliðini saðlamak gerekiyor bunun için encapsulation yöntemi kullanýlýyor.
+         * Encapsulation yönteminin Auto property olarak bir yöntemi daha vardýr.
+         * Auto Property;
+         * Field tanýmlanmaz arka plandaki field'ýný kendi tutar.
+         * get ve set metodlarý deðiþtirilemez. deðiþtirilmek istenirse auto property bozulur ve arka plandaki field'ý elimiz ile tanýmlamamýz gerekir.
+
+        Encapsulation Yöntemidir. Field'lar oluþturulurken _ ile veya küçük harflerle tanýmlamak tercih edilir. Field gizli tutulur dýþarýdan eriþebilmek için aracý olarak property kullanýlýr.
+        private string _kladi; ---> Bu bir field'dir. Ana deðiþkendir dýþardan eriþime kapalýdýr.
+
+        internal string kladi ---> Bu bir property'dir. Ýngiliz anahtarý simgesi ile form.cs den ulaþýlýr.
+        {
+            get
+            {
+                return _kladi; ---> Geriye _kladi'yý dönderir.
+            }
+            set ---> Eðer set metodunu kullanmaz isek sadece get ile oluþturur isek property readonly olur ve deðer atamasý yapýlamaz.
+            {
+                if (value == "Admin") ---> Kullanýcýda dýþardan girilen deðer 'Value' olarak tutulur.
+                {
+                    _kladi = value; ---> Value sadece set içerisinde barýnýr.
+                }
+            }
+        }
+
+        internal string AutoProperty { get; set; } ---> Bu bir Auto Property'dir. Auto property bize koþulsuz deðer attýðýmýz zaman fakat daha sonradan deðer atmamýz gerektiði zaman lazým olur.
+
+        Eðer Encapsulation yöntemi olmasaydý bu iþlemi þu þekilde yapacaktýk.
+        private string kladi;
+        internal void Kayitekle (string gelenkladi)
+        {
+            if (gelenkladi == "Admin")
+            {
+                kladi = "Admin";
+            }
+        }
+
+        internal string Kayitdonder ()
+        {
+            if (kladi != null)
+            {
+                return kladi;
+            }
+        }
+
+BÖLÜM 3:Inheritance (Miras);
+    Bu þekilde tanýmlandýðý zaman çocuklar ebebeyinlerden ebebeyinler aileden aile de insanlardan yani temel olarak herkes bir insandýr. Ebebeyin ve çocuklarýn ortak özellikleri ailedir fakat ebebeyin ve çocuklar birbirlerinden farklý
+    özelliklerde barýndýrýr temel sýnýf insan sýnýfýdýr.
+    class Cocuklar : Aile
+    {
+          Inheritance - Miras
+         * OOP günlük yaþantýmýzdan alýntý yapýlarak oluþturulmuþtur. Örneðin bir aile ferdimiz öldüðü zaman bize bir miras kalýr veya biz ebebeyinlerimizin genlerini miras almýþýzdýr. Yükseltisek biz ilk insandan miras almýþýzdýr. 
+         Biz bir canlýyýzdýr biz bir varlýðýzdýr. Her zaman temel özelliðler vardýr canlýlar solunum yapar besin enerjiye ihtiyaç duyarlar vb. þekillerde ortak özellikleri vardýr. Bizim'de bu miras olayýnda ayný þekilde bir miras 
+         alacaðýmýz temel bir sýnýf olmasý gerekir. 
+         Çocuklar ebebeyinleri gibi isim ve soyisime doðum tarihine saçlara nefes almaya sahiptir. Sahip olduklarý ortak þeyler vardýr. Bu ortak þeyler miras yolu ile geçer. Miras alma yolu kendi sýnýfýmýzýn yanýna ':' ile baba sýnýf
+         ismi yazarak gerçekleþtirilir. Burada çocuk sýnýfý ve ebebeyin sýnýfý Aile'den Aile ise Ýnsan'dan miras alýr. Bir class miras sistemi oluþtururken þema oluþturur gibi yapmalýyýz.
+    }
+
+BÖLÜM 4: Polymorphism (Çok Biçimlilik);
+         * Polymorphism Sýnýflar içerisinde miras yolu ile çalýþan sýnýflar'da bir metodun ana sýnýf içerisinde yer almasý ve bizim bu ana metod içerisindeki metodu kendimize göre þekillendirmemiz gerektiði için Polymorphism ortaya 
+         çýkmýþtýr. Biz þu anda zorunsuz Polymorphism göreceðiz.
+         * Polymorphism ikiye ayrýlýr. 1.Zorunlu Polymorphism 2.Zorunsuz Polymorphism.
+         * Zorunlu Polymorphism'de iþaretleme yapýlýrken iki terim vardýr.
+         * a-)Virtual: Bu komut ile iþaretlenmiþ metod deðiþtirilebilir anlamýna gelir. Yani bu metod ezilebilir denmiþ olur. Ýsteðe baðlý yani Zorunsuz Polymorphism'dir
+         * b-)Override: Bu komut 'Virtual' ile iþaretlenmiþ metodlar üzerinde istediðimiz þekilde deðiþim geri dönderilen yazýyý kodu veya iþlemleri deðiþtirebilmemizi saðlar. Ezmek anlamýna gelir.
+
+class Kedi
+    {
+        public int kilo { get; set; }
+
+        public int yas { get; set; }
+
+        public string ismi { get; set; }
+
+        public virtual string Gozrengi()
+        {
+            return "Kedinizin Gözrengi Mavidir.";
+        }
+    }
+
+class Ankarakedisi : Kedi
+    {
+        public override string Gozrengi()
+        {
+            return "Ankara Kedisinin Gözrengi Mavidir."; ---> Override yapýldýðý zaman geriye Bu dönderilir.
+        }
+    }
+
+BÖLÜM 5: Struct;
+     C#'da 5 tane temel tip vardýr bunlar: struct,Enumaration,Class,Delegate,Interface'dir. Struct class'ýn daha küçük daha basittir. Eðer sýnýf içerisinde override Polymorphism Inheritance gibi yapýlarý kullanmayacaksak ram'de daha az
+yer kaplamasýnýndan dolayý struct kullanabiliriz. 
+
+class ---> *1!* Ogrenci
+    {
+             Struct ekle yeni item struct þeklinde eklenmez ilk baþta class oluþturulur 1! koyduðum yerdeki class silinerek yerine struct yazýlýr biz bu tarafta struct tanýmlamayacaðýz çünkü Ogrenci class'ýnda daha sonradan miras 
+kalmasýný isteyebiliriz veya override Polymorphism gibi yapýlar kullanabiliriz. Normal kodlarda kullandýðýmýz int decimal sbyte gibi deðiþkenlerde struct'dýr.
+
+        public string isim { get; set; }
+
+        public string soyisim { get; set; }
+
+        public long tckn { get; set; }
+
+        public int yas { get; set; }
+
+        public string sinif { get; set; }
+
+        public Ders ders { get; set; } //---> Struct bu þekilde tanýmlanýr deðiþken ismi gibi yazilir.
+    }
+
+struct Ders
+    {
+        Bu bir struct'týr.
+
+        public int kredi { get; set; }
+
+        public int haftalikderssaati { get; set; }
+
+        public int gecmenotu { get; set; }
+
+        public int kredikatsayisi { get; set; }
+    }
+
+BÖLÜM 6: Enum (Enumaration);
+class Ogrenci
+    {
+          Enum - Enumaration
+         * Enum struct gibi bir yapýdýr fakat struct bir deðiþken tipi'ne benzerken enum bir liste yapýsýna benzer biz bir butonun rengini deðiþtirirken buton.BackColor = Color.White; gibi tanýmlarýz buradaki Color bir enum'dur Enum 
+         iki þekilde
+         tanýmlanýr struct tanýmlar gibi veya !1 iþaretlediðim yer gibi.
+         * Enum yapýsýnýn elemanlarýnýn index numaralarý vardýr. Ýlk eklenen eleman 0 ikinci 1 gibi index numaralarý devam eder ve bir enum tanýmlarken index numaralarýný da kullanabiliriz. Eðer biz index numaralarý ile kullanmak 
+         istemiyorsak
+         içerideki deðerlere kendimiz bir sayý verebiliriz fakat index numaralarý kaybolmaz ama burdaki alana cast ederek ulaþýladabilir !2 de gösterildiði gibi.
+         * Enumlarda GetName ve GetNames olarak iki adet metod vardýr.
+         * GetName: GetName kullanýcýnýn verdiði tipte ve hangi class üzerindeki enum deðerini göstermek istiyorsak onun ismi gereklidir geriye string deðer dönderir kullanýmý þu þekildedir;
+         * GetName(typeof(Alan),alan.alani);
+         * GetNames: Adýndan'da anlaþýlabileceði gibi belirtilen tip deki tüm içeriði gösterir ve geriye string dizisi olarak dönderir kullanýmý þu þekildedir;
+         * GetNames(typeof(Alan));
+
+        public string isimsoyisim { get; set; }
+
+        public string sinif { get; set; }
+
+        public Alan alani { get; set; }
+    }
+
+    *1!*
+    public enum Alan
+    {
+        Sayisal = 10, ---> *2!*
+        Sozel,
+        Esitagirlik,
+        Dil
+    }
+
+BÖLÜM 7: Static (Duraðan);
+class Ogrenci
+    {
+        public Ogrenci() ---> Consturctor Metodu
+        {
+            Burda her yeni bir instance yani ram'de yeni bir ogrenci class'ý oluþturulduðu zaman tanimlanma sayisini bir arttýrarak kaç adet ogrenci instance olduðunu öðrenebiliyoruz.
+            tanimlanmasayisi++;
+        }
+
+         Static - Duraðan
+         * Static bir yapýnýn tek bir kez tanýmlanmasýný form.cs de yaptýðýmýz gibi global olarak tanýmlanmasýný yada ram'de static bir yere sahip olmasý diyebiliriz. Ram'de ayrýca kendi için bir alan açýlýr ve kullanýlmak istendiði
+         zaman kendisi
+         bulunup iþlem yapýlýr. Örneðin MessageBox.Show(); show metodu MessageBox class'ýnýn içinde olmasýna raðmen yeni bir instance oluþturmadan kullanabiliyoruz. Peki bunu ne saðlýyor bunu show metodunun static olmasý saðlýyor.
+         Biz de bunun gibi bir static eleman saðlýyalým. 1!'de görebilirsiniz.
+         * Static eleman oluþturulduðu zaman static eleman static olmayan elemana static olmayan eleman ise static olan elemana ulaþamaz. Static eleman static elemana static olmayan eleman static olmayan elemana ulaþabilir.
+         * Her þeyi static yapabiliriz bir sýnýfý bir metodu veya bir field'i.
+         * Bir sýnýfý static yapar isek static olmayan elemaný olmamasý gerekir eðer sýnýf static olursa instance üretilemez ve static olmayan elemana ulaþýlamaz.
+
+        public string adisoyadi { get; set; }
+
+        public string sinifi { get; set; }
+
+        //Artýk bu yapýnýn ram'de heap bölümünde kendine ait bir yapýsý bulunur ve bu class üzerinden eriþilmek istendiði zaman tüm instance'ler tarafýndan eriþilebilir.
+        public static int tanimlanmasayisi { get; set; } ---> *1!*
+
+BÖLÜM 8: Abstract (Soyut);
+         * Biz polymorphism de zorunsuz isteðe baðlý override gördük zorunlu olarak yapýlabilmesini saðlayan abstrarct'dýr. Abstract sýnýflar içerisinde miras verilmek için tasarlanan sýnýflardýr. Sýnýfa özel deðildir field'lar
+         property'ler metodlar da
+          abstract olabilir.
+         * Bir metod için veya baþka bir kod için virtual yerine abstract yazýldýðý zaman ezilebilir deðil ezilmeli olarak iþaretlenir. Yani abstract olan bir metod veya kodu mecburen ezilmelidir.
+         * Abstract bir metodun gövde yapýsý içermez çünkü ezilmeye zorladýðýmýz için gövde yapýsýný kullanmamýza gerek yoktur bu yüzden bir abstract metod yazarken gövde yani süslü parantezler yazýlmaz.
+         * Abstract bir metod veya kod sadece abstract bir sýnýf içerisinde kullanýlýr.
+         * Sýnýf Abstract olsada içerisinde abstract olmayan bir metod veya property kullanýlabilir.
+         * Abstract'ýn tek amacý miras vermek içindir.
+
+        public string cal() ---> Abstract bir metod deðildir bu metod geriye bir þey dönderir.
+        {
+            return "Müzik Aleti Çalýnýyor";
+        }
+
+        public string cal() ---> Abstract bir metoddur. Ezilmesi zorunludur.
+
+BÖLÜM 9: Interface (Arabirim);
+class Oyuncu
+    {
+        public string adi { get; set; }
+
+        public int yasi { get; set; }
+
+        public int yasamdegeri { get; set; }
+
+        public void nisanal()
+        {
+            Niþan Alma Ýþlemi Yapýlacak.
+            if (oyuncusilahi is IYakinlastir)
+            {
+                oyuncununsilahi eðer IYakinlastir interface'ini özellik olarak kazanmýþ ise Buradaki iþlemler yapýlacak.
+                IYakinlastir ykn = (IYakinlastir)oyuncusilahi;
+                ykn.yakinlastir();
+            }
+        }
+
+        public void saldir()
+        {
+            Saldýrma Ýþlemi Yapýlacak
+        }
+
+        public Silah oyuncusilahi { get; set; }
+
+abstract class Silah
+    {
+        public int hasarpuani { get; set; }
+
+        public double agirlik { get; set; }
+    }
+
+class SAtesli : Silah
+    {
+        public int maxmermi { get; set; }
+
+        public void sarjordegistir ()
+        {
+            Þarjör Deðiþtirme Ýþlemi Burada Yapýlacak.
+        }
+    }
+
+class SDelici : Silah
+    {
+        public float dayaniklilik { get; set; }
+    }
+
+class AWP : SAtesli, IYakinlastir
+    {
+        public void yakinlastir()
+        {
+            //Yaknýlaþtýrma Ýþlemi Burada Yapýlýr.
+        }
+    }
+
+public interface IYakinlastir
+    {
+          Interface - Arabirim
+         * Biz bir sýnýftan miras alabiliyoruz fakat birden fazla miras alamýyoruz. Fakat almamýz gerekiyor ise intarface ara birim ekliyoruz arabirimi þu þekilde düþüne biliriz. Sýnýf bizim babamýzken sadece birtane babamýz olur ve
+         ondan miras alýrýz Ara birim ise bizim amcamýzdýr biz onlardan da miras alabiliriz özelliklerini alabiliriz. Interface de budur bir yetenek kazanabilme iþidir.
+         * Interface içerisinde property,metod,indexleyici ve event haricinde birþey bulunmaz.
+         * Interface içerisindeki elemanlarýn abstract metodunda olduðu gibi gövdesi bulunmaz.
+         * Interface'in Abstract'tan Farklarý;
+         * 1-Interface içerisinde sadece Abstract elemanlar bulunur. Gövdesiz elemanlar.
+         * 2-Interface içerisindeki elemanlarýn Acces Modifires'larý bulunmaz ve varsayýlan A-Modifiers'larý public'tir.
+         * 3-Interface'den instance üretilemez.
+        void yakinlastir();
+    }
+
+BÖLÜM 10: Generic 
+Dýþardan bir tip alýp o tipte eleman oluþturan bir yapýdýr.
+
+class Ogrenci <Temsili> where Temsili:class //---> Bu þekilde temsili elemanýný sadece class tipinde vermen gerekir.
+    {
+          Generic
+         * Dýþardan bir tip alarak çalýþmayý saðlayan yapýdýr. <> bu semboller ile belirtilir.
+
+        public string isimsoyisim { get; set; }
+
+        public int okulno { get; set; }
+
+        public int sinifi { get; set; }
+
+        public char subesi { get; set; }
+
+        public alan alani { get; set; }
+
+        public Temsili tmsl { get; set; }
+    }
+
+    enum alan
+    {
+        Say,
+        Soz,
+        EA,
+        Dil
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

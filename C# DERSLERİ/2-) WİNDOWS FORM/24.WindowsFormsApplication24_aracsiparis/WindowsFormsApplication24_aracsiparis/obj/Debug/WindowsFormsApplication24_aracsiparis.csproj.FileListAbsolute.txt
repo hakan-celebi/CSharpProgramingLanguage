@@ -1,0 +1,38 @@
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C#\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe.config
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.pdb
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csprojResolveAssemblyReference.cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Form1.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Properties.Resources.resources
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.GenerateResource.Cache
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.exe
+C:\Users\duzeybilisim2\Desktop\HAKAN\C# DERSLERİ\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe.config
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.pdb
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csprojResolveAssemblyReference.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Form1.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Properties.Resources.resources
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.GenerateResource.Cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.CoreCompileInputs.cache
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.exe
+F:\ÇALIŞMALARIM VE PROJELERİM\C#\C# NOTLARIM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\bin\Debug\WindowsFormsApplication24_aracsiparis.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\24.WindowsFormsApplication24_aracsiparis\WindowsFormsApplication24_aracsiparis\obj\Debug\WindowsFormsApplication24_aracsiparis.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\bin\Debug\21-)Background Worker.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\bin\Debug\21-)Background Worker.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\bin\Debug\21-)Background Worker.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\21-)Background Worker.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\_21__Background_Worker.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\_21__Background_Worker.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\21-)Background Worker.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\21-)Background Worker.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\21-)Background Worker.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\21-)Background Worker\21-)Background Worker\obj\Debug\21-)Background Worker.pdb

@@ -1,0 +1,9 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\bin\Debug\ConsoleApplication9_fordongusu.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\bin\Debug\ConsoleApplication9_fordongusu.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\bin\Debug\ConsoleApplication9_fordongusu.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\obj\Debug\ConsoleApplication9_fordongusu.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\obj\Debug\ConsoleApplication9_fordongusu.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\obj\Debug\ConsoleApplication9_fordongusu.pdb
+C:\Users\Duzey\Desktop\HAKAN\C#\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\bin\Debug\ConsoleApplication9_fordongusu.exe.config
+C:\Users\Duzey\Desktop\HAKAN\C#\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\obj\Debug\ConsoleApplication9_fordongusu.exe
+C:\Users\Duzey\Desktop\HAKAN\C#\9.ConsoleApplication9_fordongusu\ConsoleApplication9_fordongusu\obj\Debug\ConsoleApplication9_fordongusu.pdb

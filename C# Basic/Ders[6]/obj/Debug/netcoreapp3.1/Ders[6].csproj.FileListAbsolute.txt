@@ -1,0 +1,15 @@
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].exe
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].deps.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].runtimeconfig.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].runtimeconfig.dev.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\bin\Debug\netcoreapp3.1\Ders[6].pdb
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].csproj.GenerateResource.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].AssemblyInfoInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].AssemblyInfo.cs
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].pdb
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].genruntimeconfig.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders[6].csproj.AssemblyReference.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\Ders[6]\obj\Debug\netcoreapp3.1\Ders_6_.ExtensionClass.resources

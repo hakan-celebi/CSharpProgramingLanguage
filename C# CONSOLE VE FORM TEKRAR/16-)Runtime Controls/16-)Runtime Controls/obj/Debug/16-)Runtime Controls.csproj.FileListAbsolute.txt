@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\bin\Debug\16-)Runtime Controls.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\bin\Debug\16-)Runtime Controls.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\bin\Debug\16-)Runtime Controls.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\16-)Runtime Controls.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\_16__Runtime_Controls.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\_16__Runtime_Controls.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\16-)Runtime Controls.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\16-)Runtime Controls.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\16-)Runtime Controls.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\16-)Runtime Controls\16-)Runtime Controls\obj\Debug\16-)Runtime Controls.pdb

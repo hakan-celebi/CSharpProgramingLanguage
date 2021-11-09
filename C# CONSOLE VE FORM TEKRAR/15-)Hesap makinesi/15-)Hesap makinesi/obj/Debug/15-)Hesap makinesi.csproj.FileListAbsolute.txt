@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\bin\Debug\15-)Hesap makinesi.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\bin\Debug\15-)Hesap makinesi.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\bin\Debug\15-)Hesap makinesi.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\15-)Hesap makinesi.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\_15__Hesap_makinesi.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\_15__Hesap_makinesi.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\15-)Hesap makinesi.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\15-)Hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\15-)Hesap makinesi.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\15-)Hesap makinesi\15-)Hesap makinesi\obj\Debug\15-)Hesap makinesi.pdb

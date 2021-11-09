@@ -1,0 +1,13 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\bin\Debug\9-)OOP Uygulama.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\bin\Debug\9-)OOP Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\bin\Debug\9-)OOP Uygulama.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\9-)OOP Uygulama.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\_9__OOP_Uygulama.Admingiris.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\_9__OOP_Uygulama.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\_9__OOP_Uygulama.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\_9__OOP_Uygulama.Urunekle.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\_9__OOP_Uygulama.Uyegiris.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\9-)OOP Uygulama.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\9-)OOP Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\9-)OOP Uygulama.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\OOP\9-)OOP Uygulama\9-)OOP Uygulama\obj\Debug\9-)OOP Uygulama.pdb

@@ -1,0 +1,10 @@
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\bin\Debug\netcoreapp3.1\MyUserControl.deps.json
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\bin\Debug\netcoreapp3.1\MyUserControl.dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\bin\Debug\netcoreapp3.1\MyUserControl.pdb
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.GettingInputWithUserControl.resources
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.csproj.GenerateResource.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.AssemblyInfoInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.AssemblyInfo.cs
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.dll
+C:\Users\hkncl\Desktop\C#\Lessons\C# Basic\MyUserControl\obj\Debug\netcoreapp3.1\MyUserControl.pdb

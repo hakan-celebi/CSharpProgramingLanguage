@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\bin\Debug\20-)Hata Türleri.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\bin\Debug\20-)Hata Türleri.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\bin\Debug\20-)Hata Türleri.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\20-)Hata Türleri.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\_20__Hata_Türleri.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\_20__Hata_Türleri.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\20-)Hata Türleri.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\20-)Hata Türleri.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\20-)Hata Türleri.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\20-)Hata Türleri\20-)Hata Türleri\obj\Debug\20-)Hata Türleri.pdb

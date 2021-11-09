@@ -1,0 +1,19 @@
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.exe.config
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.pdb
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.csprojResolveAssemblyReference.cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.Form1.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.Properties.Resources.resources
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.csproj.GenerateResource.Cache
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.exe
+C:\Users\KadirOcsoy\Desktop\Hakan\C#\Project\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\bin\Debug\WindowsFormsApplication29_atyarisi.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# DERSLERİ\2-) WİNDOWS FORM\29.WindowsFormsApplication29_atyarisi\WindowsFormsApplication29_atyarisi\obj\Debug\WindowsFormsApplication29_atyarisi.pdb

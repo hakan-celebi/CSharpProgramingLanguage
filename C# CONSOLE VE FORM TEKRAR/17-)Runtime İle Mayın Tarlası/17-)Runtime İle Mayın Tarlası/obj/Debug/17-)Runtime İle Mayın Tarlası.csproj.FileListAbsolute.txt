@@ -1,0 +1,20 @@
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.exe.config
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.pdb
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csprojAssemblyReference.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\_17__Runtime_İle_Mayın_Tarlası.Form1.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\_17__Runtime_İle_Mayın_Tarlası.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.exe
+C:\Users\Hakan\Desktop\Yazılım Ve Notlar\C# DERS TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.exe.config
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\bin\Debug\17-)Runtime İle Mayın Tarlası.pdb
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csprojAssemblyReference.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\_17__Runtime_İle_Mayın_Tarlası.Form1.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\_17__Runtime_İle_Mayın_Tarlası.Properties.Resources.resources
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csproj.GenerateResource.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.csproj.CoreCompileInputs.cache
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.exe
+E:\ÇALIŞMALARIM VE PROJELERİM\C#\C# CONSOLE VE FORM TEKRAR\17-)Runtime İle Mayın Tarlası\17-)Runtime İle Mayın Tarlası\obj\Debug\17-)Runtime İle Mayın Tarlası.pdb
